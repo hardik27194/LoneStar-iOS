@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9059" systemVersion="14F1021" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9049"/>
+    </dependencies>
+    <scenes>
+        <!--Galaxy View Controller-->
+        <scene sceneID="cBN-20-G9c">
+            <objects>
+                <viewController storyboardIdentifier="GalaxyViewController" id="lB3-ry-Kui" customClass="GalaxyViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="5kh-wC-qgl"/>
+                        <viewControllerLayoutGuide type="bottom" id="qlA-Vj-An5"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="c0N-0P-5iD">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" placeholderIntrinsicWidth="600" placeholderIntrinsicHeight="600" image="Skyscape_Galaxy_BG.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Y6Y-F1-LdV">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                            </imageView>
+                            <view alpha="0.29999999999999999" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="d9P-Tj-5I2" userLabel="dimmerView">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="SkyscapeLogo_White_256x64.png" translatesAutoresizingMaskIntoConstraints="NO" id="yb9-X3-osp">
+                                <rect key="frame" x="54" y="10" width="144" height="36"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="36" id="qea-m8-mOx"/>
+                                    <constraint firstAttribute="width" constant="144" id="zdd-3J-vWn"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Skyscape-Cloud-256x256.png" translatesAutoresizingMaskIntoConstraints="NO" id="ffm-4E-klc">
+                                <rect key="frame" x="12" y="10" width="36" height="36"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="36" id="a2T-8S-kKa"/>
+                                    <constraint firstAttribute="width" constant="36" id="jdx-e6-eUD"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="Y6Y-F1-LdV" firstAttribute="leading" secondItem="c0N-0P-5iD" secondAttribute="leading" id="3Pl-HW-QYM"/>
+                            <constraint firstItem="yb9-X3-osp" firstAttribute="leading" secondItem="c0N-0P-5iD" secondAttribute="leading" constant="54" id="5CC-Fp-Dj5"/>
+                            <constraint firstItem="d9P-Tj-5I2" firstAttribute="leading" secondItem="c0N-0P-5iD" secondAttribute="leading" id="JBm-nI-Y8X"/>
+                            <constraint firstAttribute="bottom" secondItem="Y6Y-F1-LdV" secondAttribute="bottom" id="OS5-8V-Ioz"/>
+                            <constraint firstAttribute="trailing" secondItem="d9P-Tj-5I2" secondAttribute="trailing" id="UEU-G6-Hgh"/>
+                            <constraint firstItem="ffm-4E-klc" firstAttribute="leading" secondItem="c0N-0P-5iD" secondAttribute="leading" constant="12" id="eHP-jr-Ty7"/>
+                            <constraint firstAttribute="bottom" secondItem="d9P-Tj-5I2" secondAttribute="bottom" id="jvN-jb-7pO"/>
+                            <constraint firstItem="yb9-X3-osp" firstAttribute="top" secondItem="c0N-0P-5iD" secondAttribute="top" constant="10" id="lRp-Sb-rxP"/>
+                            <constraint firstItem="d9P-Tj-5I2" firstAttribute="top" secondItem="c0N-0P-5iD" secondAttribute="top" id="nRd-bZ-P3w"/>
+                            <constraint firstAttribute="trailing" secondItem="Y6Y-F1-LdV" secondAttribute="trailing" id="pNX-gr-4h9"/>
+                            <constraint firstItem="Y6Y-F1-LdV" firstAttribute="top" secondItem="c0N-0P-5iD" secondAttribute="top" id="ul5-49-C43"/>
+                            <constraint firstItem="ffm-4E-klc" firstAttribute="top" secondItem="c0N-0P-5iD" secondAttribute="top" constant="10" id="usu-aF-hgi"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="appIconView" destination="ffm-4E-klc" id="ZdP-hQ-2PI"/>
+                        <outlet property="bgImageView" destination="Y6Y-F1-LdV" id="RbU-Mf-mGY"/>
+                        <outlet property="dimmerView" destination="d9P-Tj-5I2" id="1Pu-fL-0fu"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dJ0-ML-DaE" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <tapGestureRecognizer id="CDm-z8-G2R"/>
+            </objects>
+            <point key="canvasLocation" x="3285" y="1109"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Skyscape-Cloud-256x256.png" width="256" height="256"/>
+        <image name="SkyscapeLogo_White_256x64.png" width="256" height="64"/>
+        <image name="Skyscape_Galaxy_BG.jpg" width="3500" height="2048"/>
+    </resources>
+</document>

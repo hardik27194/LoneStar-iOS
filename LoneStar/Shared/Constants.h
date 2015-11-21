@@ -6,11 +6,15 @@
 //  Copyright (c) 2014 Sandeep Shah. All rights reserved.
 //
 
-//#import "SSGalaxyManager.h"
+#ifndef Constants_h
+#define Constants_h
+
+#import "GalaxyConstants.h"
 
 #ifdef MACOS
 #define UIColor NSColor
 #endif
+
 #define RGB(r, g, b) [UIColor colorWithRed:r/255.0 green:g/255.0 blue:b/255.0 alpha:1]
 #define RGBA(r, g, b, a) [UIColor colorWithRed:r/255.0 green:g/255.0 blue:b/255.0 alpha:a]
 
@@ -58,6 +62,8 @@
 #define TRASH_FOLDER            @"Trash"
 #define CACHE_FOLDER            @"Cache"
 #define PDF_INBOX               @"Sync" @"/" @"Downloads" @"/" "PDF"
+#define MODULES_FOLDER          @"Modules"
+
 
 #define STARTER_FILE_NAME       @"Starter File"
 
@@ -129,8 +135,11 @@
 #define kClientUniqueID         @"group.com.medpresso.Skyscape.UniqueID"
 
 
+#define kProduct                @"LoneStar"
 
 #define kAnonymousUser          @"anonymous"
+#define kDefaultModule          @"AppData"
+
 
 #define kSkyscapeGalaxyHomeURL  @"medpresso://"
 #define kMyURLScheme            kProduct @"://"
@@ -147,3 +156,5 @@
 
 #define STANDARD_WALLPAPER  1
 #define HIDE_WELCOME_NAVIGATIONBAR 1
+
+#endif

@@ -36,7 +36,7 @@ import UIKit
     //2
     if isPush {
       //3
-      let fromVC = transitionContext.viewControllerForKey(UITransitionContextFromViewControllerKey) as! ViewController
+      let fromVC = transitionContext.viewControllerForKey(UITransitionContextFromViewControllerKey) as! HomeViewController
       let toVC = transitionContext.viewControllerForKey(UITransitionContextToViewControllerKey) as! BookViewController
       //4
       container!.addSubview(toVC.view)
@@ -57,7 +57,7 @@ import UIKit
     } else {
       //1
       let fromVC = transitionContext.viewControllerForKey(UITransitionContextFromViewControllerKey) as! BookViewController
-      let toVC = transitionContext.viewControllerForKey(UITransitionContextToViewControllerKey) as! ViewController
+      let toVC = transitionContext.viewControllerForKey(UITransitionContextToViewControllerKey) as! HomeViewController
       
       //2
       container!.insertSubview(toVC.view, belowSubview: fromVC.view)
@@ -109,7 +109,7 @@ import UIKit
     cell.layer.transform = transform
   }
   
-  func setStartPositionForPush(fromVC: ViewController, toVC: BookViewController) {
+  func setStartPositionForPush(fromVC: HomeViewController, toVC: BookViewController) {
     // 1
     toViewBackgroundColor = UIColor.blackColor(); //  fromVC.collectionView?.backgroundColor
     toVC.collectionView?.backgroundColor = nil
@@ -136,7 +136,7 @@ import UIKit
     }
   }
   
-  func setEndPositionForPush(fromVC: ViewController, toVC: BookViewController) {
+  func setEndPositionForPush(fromVC: HomeViewController, toVC: BookViewController) {
     //1
     #if false
     for cell in fromVC.collectionView!.visibleCells() as! [BookCoverCell] {
@@ -151,7 +151,7 @@ import UIKit
     }
   }
   
-  func cleanupPush(fromVC: ViewController, toVC: BookViewController) {
+  func cleanupPush(fromVC: HomeViewController, toVC: BookViewController) {
     // Add background back to pushed view controller
     toVC.collectionView?.backgroundColor = toViewBackgroundColor
     
@@ -160,13 +160,13 @@ import UIKit
   }
   
   // MARK: Pop methods
-  func setStartPositionForPop(fromVC: BookViewController, toVC: ViewController) {
+  func setStartPositionForPop(fromVC: BookViewController, toVC: HomeViewController) {
     // Remove background from the pushed view controller
     toViewBackgroundColor = UIColor.whiteColor(); // fromVC.collectionView?.backgroundColor
     fromVC.collectionView?.backgroundColor = nil
   }
   
-  func setEndPositionForPop(fromVC: BookViewController, toVC: ViewController) {
+  func setEndPositionForPop(fromVC: BookViewController, toVC: HomeViewController) {
     //1
     let coverCell = toVC.ipv
     //2
@@ -183,7 +183,7 @@ import UIKit
     }
   }
   
-  func cleanupPop(fromVC: BookViewController, toVC: ViewController) {
+  func cleanupPop(fromVC: BookViewController, toVC: HomeViewController) {
     // Add background back to pushed view controller
     fromVC.collectionView?.backgroundColor = self.toViewBackgroundColor
     

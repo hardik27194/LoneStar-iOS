@@ -9,7 +9,7 @@
         <!--View Controller-->
         <scene sceneID="74B-EN-nNF">
             <objects>
-                <viewController storyboardIdentifier="Home" useStoryboardIdentifierAsRestorationIdentifier="YES" id="PI7-XT-GG6" userLabel="View Controller" customClass="ViewController" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="Home" useStoryboardIdentifierAsRestorationIdentifier="YES" id="PI7-XT-GG6" userLabel="View Controller" customClass="HomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Cr5-as-ZYq"/>
                         <viewControllerLayoutGuide type="bottom" id="OSV-Be-kIg"/>
@@ -34,7 +34,7 @@
                                     <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sky.png" translatesAutoresizingMaskIntoConstraints="NO" id="qsX-hk-qvS">
                                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                                     </imageView>
-                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YK7-Zk-cZY" customClass="BookPortalView" customModule="FerriCA16" customModuleProvider="target">
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YK7-Zk-cZY" customClass="BookPortalView" customModule="FerriCA" customModuleProvider="target">
                                         <rect key="frame" x="200" y="200" width="200" height="200"/>
                                         <constraints>
                                             <constraint firstAttribute="width" constant="200" id="6rk-lr-JQ3"/>
@@ -115,14 +115,14 @@
         <!--Book View Controller-->
         <scene sceneID="XoY-qM-dUV">
             <objects>
-                <collectionViewController storyboardIdentifier="BookViewController" id="LDP-Lv-4Wa" customClass="BookViewController" customModule="FerriCA16" customModuleProvider="target" sceneMemberID="viewController">
+                <collectionViewController storyboardIdentifier="BookViewController" id="LDP-Lv-4Wa" customClass="BookViewController" customModule="FerriCA" customModuleProvider="target" sceneMemberID="viewController">
                     <collectionView key="view" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" id="79O-Pe-mVT">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" red="0.88235294119999996" green="0.35686274509999999" blue="0.36470588240000001" alpha="1" colorSpace="calibratedRGB"/>
-                        <collectionViewLayout key="collectionViewLayout" id="f9J-w9-tYD" customClass="BookLayout" customModule="FerriCA16" customModuleProvider="target"/>
+                        <collectionViewLayout key="collectionViewLayout" id="f9J-w9-tYD" customClass="BookLayout" customModule="FerriCA" customModuleProvider="target"/>
                         <cells>
-                            <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="BookPageCell" id="pTv-3h-yBy" customClass="BookPageCell" customModule="FerriCA16" customModuleProvider="target">
+                            <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="BookPageCell" id="pTv-3h-yBy" customClass="BookPageCell" customModule="FerriCA" customModuleProvider="target">
                                 <rect key="frame" x="0.0" y="0.0" width="250" height="400"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
@@ -161,7 +161,7 @@
                                     <outlet property="textLabel" destination="08k-Jq-yRw" id="B5j-m3-GcI"/>
                                 </connections>
                             </collectionViewCell>
-                            <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="BookCoverCell" id="FSh-mj-5ql" userLabel="BookCoverCell" customClass="BookCoverCell" customModule="FerriCA16" customModuleProvider="target">
+                            <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="BookCoverCell" id="FSh-mj-5ql" userLabel="BookCoverCell" customClass="BookCoverCell" customModule="FerriCA" customModuleProvider="target">
                                 <rect key="frame" x="350" y="0.0" width="250" height="400"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">

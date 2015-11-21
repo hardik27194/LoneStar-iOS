@@ -60,7 +60,8 @@ typedef enum  {
     FileTypeBMP,
     FileTypeZIP,
     FileTypeTIFF,
-    FileTypeSHSH,
+    FileTypeSHSH,   // Secure File
+    FileTypeSHUB,   // Skills Hub
     FileTypeUnknown
 } FileType;
 
@@ -244,6 +245,8 @@ typedef enum
                                            inView: (UIView *) parentView
                                       andDelegate: (NSObject <MobiusoActionViewDelegate> *) actionDelegate;
 + (UIVisualEffectView *) addBlurVibrancyView: (CGRect) frame options: (BOOL) notificationCenter;
+
++ (BOOL) decompress: (NSString *)zippedFilePath toDestinationPath: (NSString *) destinationPath;
 
 #ifdef DEBUG
 + (void) printFontNames;

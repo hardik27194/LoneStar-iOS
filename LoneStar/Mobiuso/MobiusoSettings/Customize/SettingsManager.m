@@ -114,6 +114,31 @@ static SettingsManager *settings;
     
 }
 
+// Keys with the User Info exported
+#define keyUserEmailId      @"userEmail"
+#define keyUserCustomerId   @"userId"
+
+
+- (void) setCurrentUser: (NSDictionary *) userInfo
+{
+    NSDictionary *savedUserInfo = [self currentUser];
+    NSString *userId = [savedUserInfo objectForKey:keyUserEmailId];
+    NSString *newUserId = [userInfo objectForKey:keyUserEmailId];
+    // If it is changed then do the following
+    if ((userId==nil) || !IS_EQUAL(userId, newUserId)) {
+        [_groupDictionary setObject:userInfo forKey: kSettingCurrentUserIndexKey];
+        [self sync];
+        [[NSNotificationCenter defaultCenter] postNotificationName: LOCAL_NOTIFICATION_SETTINGS object:nil];
+        
+    }
+}
+
+- (NSDictionary *) currentUser
+{
+    return [_groupDictionary objectForKey: kSettingCurrentUserIndexKey];
+}
+
+
 + (id) objectForKey: (NSString *) key inGroup: (NSString *) groupKey
 {
     // The key is spread out in number of groups - will need to search

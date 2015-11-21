@@ -11,6 +11,7 @@
 #import <QuartzCore/QuartzCore.h>
 #import "UIView+Glow.h"
 #import "AppDelegate.h"
+#import "Constants.h"
 
 static CGFloat const kMoArcMenuDefaultNearRadius = 80.0f;
 static CGFloat const kMoArcMenuDefaultEndRadius = 90.0f;

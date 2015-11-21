@@ -99,6 +99,13 @@ extern NSString             *mysignature;
 #define kSettingNavigationLayoutKey            @"SettingNavigationLayout"
 #define kSettingPhotoZoomLevelKey              @"SettingPhotoZoomLevelKey"
 #define kSettingCurrentServerIndexKey          @"SettingCurrentServerIndexKey"
+#define kSettingCurrentUserIndexKey            @"SettingCurrentUserIndexKey"
+
+#define kSettingModuleListKey                  @"SettingModuleListKey"
+#define kSettingCurrentModuleIndexKey          @"SettingCurrentModuleIndexKey"
+#define kSettingCurrentModuleInfoIndexKey      @"SettingCurrentModuleInfoIndexKey"
+
+#define kSettingMainEntryPointCounterKey       @"SettingCounterKey"
 
 
 #ifdef REFERENCE
@@ -141,6 +148,8 @@ extern NSString             *mysignature;
 - (id) objectForKey: (NSString *) key  inCategory: (NSString *) category;
 #endif
 
+- (void) setCurrentUser: (NSDictionary *) userInfo;
+- (NSDictionary *) currentUser;
 
 
 @property (nonatomic, retain) NSMutableDictionary   *groupDictionary;

@@ -30,6 +30,7 @@
 #import "RNDecryptor.h"
 #import "Theme.h"
 #import <UIKit/UIKit.h>
+#import "ZipArchive.h"
 @import NotificationCenter;
 
 //#import "JSON.h"
@@ -1904,6 +1905,23 @@ void drawLinearGradient(CGContextRef context, CGRect rect, CGColorRef startColor
     UIViewAutoresizingFlexibleHeight | UIViewAutoresizingFlexibleWidth;
     [selectedBackgroundView.contentView addSubview:view];
     return selectedBackgroundView;
+}
+
+#pragma mark - Decompress
++ (BOOL) decompress: (NSString *)zippedFilePath toDestinationPath: (NSString *) destinationPath
+{
+    BOOL success = NO;
+    ZipArchive *zipArchive = [[ZipArchive alloc] init];
+    if([zipArchive UnzipOpenFile:zippedFilePath])
+    {
+        
+        if ([zipArchive UnzipFileTo:destinationPath overWrite:YES])
+        {
+            success = YES;
+        }
+        
+    }
+    return success;
 }
 
 

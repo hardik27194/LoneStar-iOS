@@ -9,12 +9,21 @@
 #ifndef _MCC_h
 #define _MCC_h
 
-#define SPECIFIC_PRODUCT
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <CoreData/CoreData.h>
 
-#import "LoneStar-Prefix.pch"
+
+#endif
+
+//#define SPECIFIC_PRODUCT
+#import "LoneStarDefault-Prefix.h"
+
 
 // If the product specific name starts with a number, replace the number with an underscore (as below for 5MCC)
-#import "_MCC-Swift.h"
+//#import "_MCC-Swift.h"
+
 
 #define PRODUCT_KEY_NAME    @"5MCC"    // If it is not Edition Based, then this will be same as the PRODUCT_KEY
 

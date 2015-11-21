@@ -466,6 +466,14 @@ import UIKit
         // if not paused, then adjust it
         
     }
+    
+    func setProgress(completion: CGFloat) {
+        if (completion < 1.0) {
+            circleLayer.strokeEnd = completion
+        } else {
+            circleLayer.strokeEnd = (completion / 100.0)
+        }
+    }
 
     
 }
