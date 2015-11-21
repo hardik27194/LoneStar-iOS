@@ -1,0 +1,856 @@
+{
+"items": [
+	{
+	"Name": "A",
+	"IconName": "ico/A.png",
+	"items": [
+		{
+		"Name": "Abdominal Pain, Chronic",
+		"TargetId": "616",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/../Algorithm_Images/clin_algo_unimage001.jpg",
+		"Anchor": "#clin_algo_unfig001",
+		},
+		{
+		"Name": "Abdominal Pain, Lower",
+		"TargetId": "617",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage002.jpg",
+		"Anchor": "#clin_algo_unfig002",
+		},
+		{
+		"Name": "Abdominal Pain, Upper",
+		"TargetId": "618",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage003.jpg",
+		"Anchor": "#clin_algo_unfig003",
+		},
+		{
+		"Name": "Acetaminophen Poisoning, Treatment",
+		"TargetId": "619",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage004.jpg",
+		"Anchor": "#clin_algo_unfig004",
+		},
+		{
+		"Name": "Acid Phosphatase Elevation",
+		"TargetId": "620",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage005.jpg",
+		"Anchor": "#clin_algo_unfig005",
+		},
+		{
+		"Name": "Acidosis",
+		"TargetId": "621",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage006.jpg",
+		"Anchor": "#clin_algo_unfig006",
+		},
+		{
+		"Name": "Acne",
+		"TargetId": "622",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage007.jpg",
+		"Anchor": "#clin_algo_unfig007",
+		},
+		{
+		"Name": "Alcohol Withdrawal, Treatment",
+		"TargetId": "623",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage008.jpg",
+		"Anchor": "#clin_algo_unfig008",
+		},
+		{
+		"Name": "Alkaline Phosphatase Elevation",
+		"TargetId": "624",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage009.jpg",
+		"Anchor": "#clin_algo_unfig009",
+		},
+		{
+		"Name": "Amenorrhea, Secondary",
+		"TargetId": "625",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage010.jpg",
+		"Anchor": "#clin_algo_unfig010",
+		},
+		{
+		"Name": "Anemia",
+		"TargetId": "626",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage011.jpg",
+		"Anchor": "#clin_algo_unfig011",
+		},
+		{
+		"Name": "Anxiety",
+		"TargetId": "627",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage012.jpg",
+		"Anchor": "#clin_algo_unfig012",
+		},
+		{
+		"Name": "AST Elevation",
+		"TargetId": "628",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage013.jpg",
+		"Anchor": "#clin_algo_unfig013",
+		},
+		{
+		"Name": "Asthma Exacerbation, Pediatric Acute",
+		"TargetId": "629",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage014.jpg",
+		"Anchor": "#clin_algo_unfig014",
+		},
+		{
+		"Name": "Asthma, Initial Treatment",
+		"TargetId": "630",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage015.jpg",
+		"Anchor": "#clin_algo_unfig015",
+		},
+		{
+		"Name": "Asthma, Maintenance",
+		"TargetId": "631",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage016.jpg",
+		"Anchor": "#clin_algo_unfig016",
+		},
+		{
+		"Name": "Ataxia",
+		"TargetId": "632",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage017.jpg",
+		"Anchor": "#clin_algo_unfig017",
+		},
+	]
+	},
+	{
+	"Name": "B",
+	"IconName": "ico/B.png",
+	"items": [
+		{
+		"Name": "Breast Pain",
+		"TargetId": "633",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage018.jpg",
+		"Anchor": "#clin_algo_unfig018",
+		},
+	]
+	},
+	{
+	"Name": "C",
+	"IconName": "ico/C.png",
+	"items": [
+		{
+		"Name": "Cardiac Arrhythmias",
+		"TargetId": "634",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage019.jpg",
+		"Anchor": "#clin_algo_unfig019",
+		},
+		{
+		"Name": "Cervical Hyperextension Injury",
+		"TargetId": "635",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage020a.jpg",
+		"Anchor": "#clin_algo_unfig020",
+		},
+		{
+		"Name": "Chest Pain/Acute Coronary Syndrome",
+		"TargetId": "636",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage021.jpg",
+		"Anchor": "#clin_algo_unfig021",
+		},
+		{
+		"Name": "Child Abuse",
+		"TargetId": "637",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage022.jpg",
+		"Anchor": "#clin_algo_unfig022",
+		},
+		{
+		"Name": "Chronic Joint Pain and Stiffness",
+		"TargetId": "638",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage023.jpg",
+		"Anchor": "#clin_algo_unfig023",
+		},
+		{
+		"Name": "Chronic Obstructive Pulmonary Disease (COPD), Diagnosis and Treatment",
+		"TargetId": "639",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage024a.jpg",
+		"Anchor": "#clin_algo_unfig024",
+		},
+		{
+		"Name": "Concussion, Sideline Evaluation",
+		"TargetId": "640",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage025.jpg",
+		"Anchor": "#clin_algo_unfig025",
+		},
+		{
+		"Name": "Congestive Heart Failure: Differential Diagnosis",
+		"TargetId": "641",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage026.jpg",
+		"Anchor": "#clin_algo_unfig026",
+		},
+		{
+		"Name": "Constipation, Diagnosis and Treatment (Adult)",
+		"TargetId": "642",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage027.jpg",
+		"Anchor": "#clin_algo_unfig027",
+		},
+		{
+		"Name": "Constipation, Treatment (Pediatric)",
+		"TargetId": "643",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage028.jpg",
+		"Anchor": "#clin_algo_unfig028",
+		},
+		{
+		"Name": "Contraception",
+		"TargetId": "644",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage029a.jpg",
+		"Anchor": "#clin_algo_unfig029",
+		},
+		{
+		"Name": "Cough, Chronic",
+		"TargetId": "645",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage030.jpg",
+		"Anchor": "#clin_algo_unfig030",
+		},
+	]
+	},
+	{
+	"Name": "D",
+	"IconName": "ico/D.png",
+	"items": [
+		{
+		"Name": "Diagnosis and Treatment: An Algorithmic ApproachAbdominal Pain, ChronicAbdominal Pain, LowerAbdominal Pain, UpperAcetaminophen Poisoning, TreatmentAcid Phosphatase ElevationAcidosisAcneAlcohol Withdrawal, TreatmentAlkaline Phosphatase ElevationAmenorrhea, SecondaryAnemiaAnxietyAST ElevationAsthma Exacerbation, Pediatric AcuteAsthma, Initial TreatmentAsthma, MaintenanceAtaxiaBreast PainCardiac ArrhythmiasCervical Hyperextension InjuryChest Pain/Acute Coronary SyndromeChild AbuseChronic Joint Pain and StiffnessChronic Obstructive Pulmonary Disease (COPD), Diagnosis and TreatmentConcussion, Sideline EvaluationCongestive Heart Failure: Differential DiagnosisConstipation, Diagnosis and Treatment (Adult)Constipation, Treatment (Pediatric)ContraceptionCough, ChronicDeep Venous Thrombosis, Diagnosis and TreatmentDehydration, PediatricDeliriumDementiaDepressive Episode, MajorDiabetic Ketoacidosis (DKA), TreatmentDiarrhea, ChronicDischarge, VaginalDizzinessDyspepsiaDysphagiaDyspneaErythrocytosisFatigueFever in the First 3 Months of LifeFever of Unkown OriginGastroesophageal Reflux Disease, Diagnosis and TreatmentGenital UlcersGoiterHead Injury, Diagnosis and ManagementHeadache, ChronicHeart MurmurHeel PainHematemesis (Bleeding, Upper Gastrointestinal)HematuriaHepatomegalyHyperbilirubinemia and CirrhosisHypercalcemiaHyperkalemiaHyperlipidemiaHypernatremiaHypoalbuminemiaHypocalcemiaHypoglycemiaHypokalemiaHyponatremiaHypotensionHypothermiaInfertilityIntellectual DisabilityKnee PainLactate Dehydrogenase ElevationLead Toxicity, Diagnosis and Treatment (Adult)Low Back Pain, ChronicLymphadenopathyLymphopeniaMenopause, Evaluation and ManagementMetabolic Syndrome, TreatmentMigraine, TreatmentNail AbnormalitiesNeutropeniaNevus, AbnormalOpioid DependencePain, ChronicPain, Chronic, TreatmentPalpable Breast Mass (Age &#x003C;30 Years or Pregnant or Lactating)Palpable Breast Mass (Age &#x003C;30 Years)PalpitationsPap, Normal and Abnormal in Nonpregnant Women Ages 25 Years and OlderPap, Normal and Abnormal in Women Ages 21&#x2013;24 YearsParkinson Disease, TreatmentPediatric Exanthems, DiagnosticPelvic PainPoison Exposure and TreatmentPrecocious PubertyPreoperative Evaluation of Noncardiac Surgical PatientProteinuriaPulmonary Embolism, DiagnosisPulmonary Embolism, TreatmentRash, FocalRectal Bleeding and HematocheziaRecurrent Pregnancy LossRed EyeSalicylate Poisoning, Acute, TreatmentSeizure, New OnsetShoulder Pain, DiagnosisShoulder Pain, TreatmentSickle Cell Anemia, Acute, Evaluation and ManagementSuicide, Evaluating Risk ForSyncopeThrombocytopeniaThyroid NoduleTransient Ischemic Attacks and Transient Neurologic DefectsTremorType 2 Diabetes, TreatmentUremiaVaginal Bleeding During PregnancyVaginal Bleeding, AbnormalVitamin D DeficiencyWeight Loss, Unintentiona l",
+		"TargetId": "615",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage001.jpg",
+		"Anchor": "#clin_algo",
+		},
+		{
+		"Name": "Deep Venous Thrombosis, Diagnosis and Treatment",
+		"TargetId": "646",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage031a.jpg",
+		"Anchor": "#clin_algo_unfig031",
+		},
+		{
+		"Name": "Dehydration, Pediatric",
+		"TargetId": "647",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage032.jpg",
+		"Anchor": "#clin_algo_unfig032",
+		},
+		{
+		"Name": "Delirium",
+		"TargetId": "648",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage033.jpg",
+		"Anchor": "#clin_algo_unfig033",
+		},
+		{
+		"Name": "Dementia",
+		"TargetId": "649",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage034.jpg",
+		"Anchor": "#clin_algo_unfig034",
+		},
+		{
+		"Name": "Depressive Episode, Major",
+		"TargetId": "650",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage035.jpg",
+		"Anchor": "#clin_algo_unfig035",
+		},
+		{
+		"Name": "Diabetic Ketoacidosis (DKA), Treatment",
+		"TargetId": "651",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage036.jpg",
+		"Anchor": "#clin_algo_unfig036",
+		},
+		{
+		"Name": "Diarrhea, Chronic",
+		"TargetId": "652",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage037.jpg",
+		"Anchor": "#clin_algo_unfig037",
+		},
+		{
+		"Name": "Discharge, Vaginal",
+		"TargetId": "653",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage038.jpg",
+		"Anchor": "#clin_algo_unfig038",
+		},
+		{
+		"Name": "Dizziness",
+		"TargetId": "654",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage039.jpg",
+		"Anchor": "#clin_algo_unfig039",
+		},
+		{
+		"Name": "Dyspepsia",
+		"TargetId": "655",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage040.jpg",
+		"Anchor": "#clin_algo_unfig040",
+		},
+		{
+		"Name": "Dysphagia",
+		"TargetId": "656",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage041.jpg",
+		"Anchor": "#clin_algo_unfig041",
+		},
+		{
+		"Name": "Dyspnea",
+		"TargetId": "657",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage042.jpg",
+		"Anchor": "#clin_algo_unfig042",
+		},
+	]
+	},
+	{
+	"Name": "E",
+	"IconName": "ico/E.png",
+	"items": [
+		{
+		"Name": "Erythrocytosis",
+		"TargetId": "658",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage043.jpg",
+		"Anchor": "#clin_algo_unfig043",
+		},
+	]
+	},
+	{
+	"Name": "F",
+	"IconName": "ico/F.png",
+	"items": [
+		{
+		"Name": "Fatigue",
+		"TargetId": "659",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage044.jpg",
+		"Anchor": "#clin_algo_unfig044",
+		},
+		{
+		"Name": "Fever in the First 3 Months of Life",
+		"TargetId": "660",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage045.jpg",
+		"Anchor": "#clin_algo_unfig045",
+		},
+		{
+		"Name": "Fever of Unkown Origin",
+		"TargetId": "661",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage046.jpg",
+		"Anchor": "#clin_algo_unfig046",
+		},
+	]
+	},
+	{
+	"Name": "G",
+	"IconName": "ico/G.png",
+	"items": [
+		{
+		"Name": "Gastroesophageal Reflux Disease, Diagnosis and Treatment",
+		"TargetId": "662",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage047.jpg",
+		"Anchor": "#clin_algo_unfig047",
+		},
+		{
+		"Name": "Genital Ulcers",
+		"TargetId": "663",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage048.jpg",
+		"Anchor": "#clin_algo_unfig048",
+		},
+		{
+		"Name": "Goiter",
+		"TargetId": "664",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage049.jpg",
+		"Anchor": "#clin_algo_unfig049",
+		},
+	]
+	},
+	{
+	"Name": "H",
+	"IconName": "ico/H.png",
+	"items": [
+		{
+		"Name": "Head Injury, Diagnosis and Management",
+		"TargetId": "665",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage050.jpg",
+		"Anchor": "#clin_algo_unfig050",
+		},
+		{
+		"Name": "Headache, Chronic",
+		"TargetId": "666",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage051.jpg",
+		"Anchor": "#clin_algo_unfig051",
+		},
+		{
+		"Name": "Heart Murmur",
+		"TargetId": "667",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage052.jpg",
+		"Anchor": "#clin_algo_unfig052",
+		},
+		{
+		"Name": "Heel Pain",
+		"TargetId": "668",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage053.jpg",
+		"Anchor": "#clin_algo_unfig053",
+		},
+		{
+		"Name": "Hematemesis (Bleeding, Upper Gastrointestinal)",
+		"TargetId": "669",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage054.jpg",
+		"Anchor": "#clin_algo_unfig054",
+		},
+		{
+		"Name": "Hematuria",
+		"TargetId": "670",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage055.jpg",
+		"Anchor": "#clin_algo_unfig055",
+		},
+		{
+		"Name": "Hepatomegaly",
+		"TargetId": "671",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage056.jpg",
+		"Anchor": "#clin_algo_unfig056",
+		},
+		{
+		"Name": "Hyperbilirubinemia and Cirrhosis",
+		"TargetId": "672",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage057.jpg",
+		"Anchor": "#clin_algo_unfig057",
+		},
+		{
+		"Name": "Hypercalcemia",
+		"TargetId": "673",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage058.jpg",
+		"Anchor": "#clin_algo_unfig058",
+		},
+		{
+		"Name": "Hyperkalemia",
+		"TargetId": "674",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage059.jpg",
+		"Anchor": "#clin_algo_unfig059",
+		},
+		{
+		"Name": "Hyperlipidemia",
+		"TargetId": "675",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage060.jpg",
+		"Anchor": "#clin_algo_unfig060",
+		},
+		{
+		"Name": "Hypernatremia",
+		"TargetId": "676",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage061.jpg",
+		"Anchor": "#clin_algo_unfig061",
+		},
+		{
+		"Name": "Hypoalbuminemia",
+		"TargetId": "677",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage062.jpg",
+		"Anchor": "#clin_algo_unfig062",
+		},
+		{
+		"Name": "Hypocalcemia",
+		"TargetId": "678",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage063.jpg",
+		"Anchor": "#clin_algo_unfig063",
+		},
+		{
+		"Name": "Hypoglycemia",
+		"TargetId": "679",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage064.jpg",
+		"Anchor": "#clin_algo_unfig064",
+		},
+		{
+		"Name": "Hypokalemia",
+		"TargetId": "680",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage065.jpg",
+		"Anchor": "#clin_algo_unfig065",
+		},
+		{
+		"Name": "Hyponatremia",
+		"TargetId": "681",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage066.jpg",
+		"Anchor": "#clin_algo_unfig066",
+		},
+		{
+		"Name": "Hypotension",
+		"TargetId": "682",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage067.jpg",
+		"Anchor": "#clin_algo_unfig067",
+		},
+		{
+		"Name": "Hypothermia",
+		"TargetId": "683",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage068.jpg",
+		"Anchor": "#clin_algo_unfig068",
+		},
+	]
+	},
+	{
+	"Name": "I",
+	"IconName": "ico/I.png",
+	"items": [
+		{
+		"Name": "Infertility",
+		"TargetId": "684",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage069.jpg",
+		"Anchor": "#clin_algo_unfig069",
+		},
+		{
+		"Name": "Intellectual Disability",
+		"TargetId": "685",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage070.jpg",
+		"Anchor": "#clin_algo_unfig070",
+		},
+	]
+	},
+	{
+	"Name": "K",
+	"IconName": "ico/K.png",
+	"items": [
+		{
+		"Name": "Knee Pain",
+		"TargetId": "686",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage071.jpg",
+		"Anchor": "#clin_algo_unfig071",
+		},
+	]
+	},
+	{
+	"Name": "L",
+	"IconName": "ico/L.png",
+	"items": [
+		{
+		"Name": "Lactate Dehydrogenase Elevation",
+		"TargetId": "687",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage072.jpg",
+		"Anchor": "#clin_algo_unfig072",
+		},
+		{
+		"Name": "Lead Toxicity, Diagnosis and Treatment (Adult)",
+		"TargetId": "688",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage073.jpg",
+		"Anchor": "#clin_algo_unfig073",
+		},
+		{
+		"Name": "Low Back Pain, Chronic",
+		"TargetId": "689",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage074.jpg",
+		"Anchor": "#clin_algo_unfig074",
+		},
+		{
+		"Name": "Lymphadenopathy",
+		"TargetId": "690",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage075.jpg",
+		"Anchor": "#clin_algo_unfig075",
+		},
+		{
+		"Name": "Lymphopenia",
+		"TargetId": "691",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage076.jpg",
+		"Anchor": "#clin_algo_unfig076",
+		},
+	]
+	},
+	{
+	"Name": "M",
+	"IconName": "ico/M.png",
+	"items": [
+		{
+		"Name": "Menopause, Evaluation and Management",
+		"TargetId": "692",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage077a.jpg",
+		"Anchor": "#clin_algo_unfig077",
+		},
+		{
+		"Name": "Metabolic Syndrome, Treatment",
+		"TargetId": "693",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage078.jpg",
+		"Anchor": "#clin_algo_unfig078",
+		},
+		{
+		"Name": "Migraine, Treatment",
+		"TargetId": "694",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage079.jpg",
+		"Anchor": "#clin_algo_unfig079",
+		},
+	]
+	},
+	{
+	"Name": "N",
+	"IconName": "ico/N.png",
+	"items": [
+		{
+		"Name": "Nail Abnormalities",
+		"TargetId": "695",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage080.jpg",
+		"Anchor": "#clin_algo_unfig080",
+		},
+		{
+		"Name": "Neutropenia",
+		"TargetId": "696",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage081.jpg",
+		"Anchor": "#clin_algo_unfig081",
+		},
+		{
+		"Name": "Nevus, Abnormal",
+		"TargetId": "697",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage082.jpg",
+		"Anchor": "#clin_algo_unfig082",
+		},
+	]
+	},
+	{
+	"Name": "O",
+	"IconName": "ico/O.png",
+	"items": [
+		{
+		"Name": "Opioid Dependence",
+		"TargetId": "698",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage083.jpg",
+		"Anchor": "#clin_algo_unfig083",
+		},
+	]
+	},
+	{
+	"Name": "P",
+	"IconName": "ico/P.png",
+	"items": [
+		{
+		"Name": "Pain, Chronic",
+		"TargetId": "699",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage084.jpg",
+		"Anchor": "#clin_algo_unfig084",
+		},
+		{
+		"Name": "Pain, Chronic, Treatment",
+		"TargetId": "700",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage085.jpg",
+		"Anchor": "#clin_algo_unfig085",
+		},
+		{
+		"Name": "Palpable Breast Mass (Age &#x003C;30 Years or Pregnant or Lactating)",
+		"TargetId": "701",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage086.jpg",
+		"Anchor": "#clin_algo_unfig086",
+		},
+		{
+		"Name": "Palpable Breast Mass (Age &#x003C;30 Years)",
+		"TargetId": "702",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage087.jpg",
+		"Anchor": "#clin_algo_unfig087",
+		},
+		{
+		"Name": "Palpitations",
+		"TargetId": "703",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage088.jpg",
+		"Anchor": "#clin_algo_unfig088",
+		},
+		{
+		"Name": "Pap, Normal and Abnormal in Nonpregnant Women Ages 25 Years and Older",
+		"TargetId": "704",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage089.jpg",
+		"Anchor": "#clin_algo_unfig089",
+		},
+		{
+		"Name": "Pap, Normal and Abnormal in Women Ages 21&#x2013;24 Years",
+		"TargetId": "705",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage090.jpg",
+		"Anchor": "#clin_algo_unfig090",
+		},
+		{
+		"Name": "Parkinson Disease, Treatment",
+		"TargetId": "706",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage091.jpg",
+		"Anchor": "#clin_algo_unfig091",
+		},
+		{
+		"Name": "Pediatric Exanthems, Diagnostic",
+		"TargetId": "707",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage092.jpg",
+		"Anchor": "#clin_algo_unfig092",
+		},
+		{
+		"Name": "Pelvic Pain",
+		"TargetId": "708",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage093.jpg",
+		"Anchor": "#clin_algo_unfig093",
+		},
+		{
+		"Name": "Poison Exposure and Treatment",
+		"TargetId": "709",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage094a.jpg",
+		"Anchor": "#clin_algo_unfig094",
+		},
+		{
+		"Name": "Precocious Puberty",
+		"TargetId": "710",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage095.jpg",
+		"Anchor": "#clin_algo_unfig095",
+		},
+		{
+		"Name": "Preoperative Evaluation of Noncardiac Surgical Patient",
+		"TargetId": "711",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage096.jpg",
+		"Anchor": "#clin_algo_unfig096",
+		},
+		{
+		"Name": "Proteinuria",
+		"TargetId": "712",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage097.jpg",
+		"Anchor": "#clin_algo_unfig097",
+		},
+		{
+		"Name": "Pulmonary Embolism, Diagnosis",
+		"TargetId": "713",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage098.jpg",
+		"Anchor": "#clin_algo_unfig098",
+		},
+		{
+		"Name": "Pulmonary Embolism, Treatment",
+		"TargetId": "714",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage099.jpg",
+		"Anchor": "#clin_algo_unfig099",
+		},
+	]
+	},
+	{
+	"Name": "R",
+	"IconName": "ico/R.png",
+	"items": [
+		{
+		"Name": "Rash, Focal",
+		"TargetId": "715",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage100a.jpg",
+		"Anchor": "#clin_algo_unfig100",
+		},
+		{
+		"Name": "Rectal Bleeding and Hematochezia",
+		"TargetId": "716",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage101.jpg",
+		"Anchor": "#clin_algo_unfig101",
+		},
+		{
+		"Name": "Recurrent Pregnancy Loss",
+		"TargetId": "717",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage102.jpg",
+		"Anchor": "#clin_algo_unfig102",
+		},
+		{
+		"Name": "Red Eye",
+		"TargetId": "718",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage103.jpg",
+		"Anchor": "#clin_algo_unfig103",
+		},
+	]
+	},
+	{
+	"Name": "S",
+	"IconName": "ico/S.png",
+	"items": [
+		{
+		"Name": "Salicylate Poisoning, Acute, Treatment",
+		"TargetId": "719",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage104.jpg",
+		"Anchor": "#clin_algo_unfig104",
+		},
+		{
+		"Name": "Seizure, New Onset",
+		"TargetId": "720",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage105.jpg",
+		"Anchor": "#clin_algo_unfig105",
+		},
+		{
+		"Name": "Shoulder Pain, Diagnosis",
+		"TargetId": "721",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage106.jpg",
+		"Anchor": "#clin_algo_unfig106",
+		},
+		{
+		"Name": "Shoulder Pain, Treatment",
+		"TargetId": "722",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage107.jpg",
+		"Anchor": "#clin_algo_unfig107",
+		},
+		{
+		"Name": "Sickle Cell Anemia, Acute, Evaluation and Management",
+		"TargetId": "723",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage108a.jpg",
+		"Anchor": "#clin_algo_unfig108",
+		},
+		{
+		"Name": "Suicide, Evaluating Risk For",
+		"TargetId": "724",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage109.jpg",
+		"Anchor": "#clin_algo_unfig109",
+		},
+		{
+		"Name": "Syncope",
+		"TargetId": "725",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage110.jpg",
+		"Anchor": "#clin_algo_unfig110",
+		},
+	]
+	},
+	{
+	"Name": "T",
+	"IconName": "ico/T.png",
+	"items": [
+		{
+		"Name": "Thrombocytopenia",
+		"TargetId": "726",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage111.jpg",
+		"Anchor": "#clin_algo_unfig111",
+		},
+		{
+		"Name": "Thyroid Nodule",
+		"TargetId": "727",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage112.jpg",
+		"Anchor": "#clin_algo_unfig112",
+		},
+		{
+		"Name": "Transient Ischemic Attacks and Transient Neurologic Defects",
+		"TargetId": "728",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage113.jpg",
+		"Anchor": "#clin_algo_unfig113",
+		},
+		{
+		"Name": "Tremor",
+		"TargetId": "729",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage114.jpg",
+		"Anchor": "#clin_algo_unfig114",
+		},
+		{
+		"Name": "Type 2 Diabetes, Treatment",
+		"TargetId": "730",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage115.jpg",
+		"Anchor": "#clin_algo_unfig115",
+		},
+	]
+	},
+	{
+	"Name": "U",
+	"IconName": "ico/U.png",
+	"items": [
+		{
+		"Name": "Uremia",
+		"TargetId": "731",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage116.jpg",
+		"Anchor": "#clin_algo_unfig116",
+		},
+	]
+	},
+	{
+	"Name": "V",
+	"IconName": "ico/V.png",
+	"items": [
+		{
+		"Name": "Vaginal Bleeding During Pregnancy",
+		"TargetId": "732",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage117.jpg",
+		"Anchor": "#clin_algo_unfig117",
+		},
+		{
+		"Name": "Vaginal Bleeding, Abnormal",
+		"TargetId": "733",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage118.jpg",
+		"Anchor": "#clin_algo_unfig118",
+		},
+		{
+		"Name": "Vitamin D Deficiency",
+		"TargetId": "734",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage119.jpg",
+		"Anchor": "#clin_algo_unfig119",
+		},
+	]
+	},
+	{
+	"Name": "W",
+	"IconName": "ico/W.png",
+	"items": [
+		{
+		"Name": "Weight Loss, Unintentiona l",
+		"TargetId": "735",
+		"IconName": "content/HTML/Algorithm_Images/../Algorithm_Images/clin_algo_unimage120.jpg",
+		"Anchor": "#clin_algo_unfig120",
+		},
+	]
+	},
+]
+}

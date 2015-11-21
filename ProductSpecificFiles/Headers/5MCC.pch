@@ -1,0 +1,27 @@
+//
+//  5MCC-2016.h
+//  LoneStar
+//
+//  Created by sandeep on 11/18/15.
+//  Copyright © 2015 Medpresso. All rights reserved.
+//
+
+#ifndef _MCC_h
+#define _MCC_h
+
+#define SPECIFIC_PRODUCT
+
+#import "LoneStar-Prefix.pch"
+
+// If the product specific name starts with a number, replace the number with an underscore (as below for 5MCC)
+#import "_MCC-Swift.h"
+
+#define PRODUCT_KEY_NAME    @"5MCC"    // If it is not Edition Based, then this will be same as the PRODUCT_KEY
+
+#define ShortName           @"5MCC-2016"
+#define LongName            @"5-Minute Clinical Consult (2016)"
+#define IconName            @"5mcc-2016.jpg"
+#define Editor              @"Frank Domino, MD"
+#define Image
+
+#endif /* _MCC_h */

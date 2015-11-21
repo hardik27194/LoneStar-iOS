@@ -1,0 +1,2942 @@
+{
+	"1": {
+		"Target": "./HTML/Front_Matter/Domino-premium-fm-topic001.html",
+		"title": "Dedication"
+		},
+	"2": {
+		"Target": "./HTML/Front_Matter/Domino-premium-fm-topic002.html",
+		"title": "Preface"
+		},
+	"3": {
+		"Target": "./HTML/Front_Matter/Domino-premium-fm-topic003.html",
+		"title": "Evidence-Based MedicineWhat Is Evidence-Based Medicine?Evidenced-Based Grading:Bias:"
+		},
+	"4": {
+		"Target": "./HTML/Front_Matter/Domino-premium-fm-topic004.html",
+		"title": "What Is Evidence-Based Medicine?"
+		},
+	"5": {
+		"Target": "./HTML/Front_Matter/Domino-premium-fm-topic005.html",
+		"title": "Evidenced-Based Grading:"
+		},
+	"6": {
+		"Target": "./HTML/Front_Matter/Domino-premium-fm-topic006.html",
+		"title": "Bias:"
+		},
+	"7": {
+		"Target": "./HTML/Front_Matter/Domino-premium-fm-topic007.html",
+		"title": "Acknowledgments"
+		},
+	"8": {
+		"Target": "./HTML/Front_Matter/Domino-premium-fm-topic008.html",
+		"title": "Contributing Authors"
+		},
+	"9": {
+		"Target": "./HTML/Front_Matter/Domino-premium-fm-topic009.html",
+		"title": "Contents"
+		},
+	"10": {
+		"Target": "./HTML/Topics/001_abnormal-uterine-bleeding.html",
+		"title": "Abnormal (Dysfunctional) Uterine Bleeding"
+		},
+	"11": {
+		"Target": "./HTML/Topics/002_abnormal-pap-and-cervical-dysplasia.html",
+		"title": "Abnormal Pap and Cervical Dysplasia"
+		},
+	"12": {
+		"Target": "./HTML/Topics/003_abortion_spontaneous.html",
+		"title": "Abortion, Spontaneous (Miscarriage)"
+		},
+	"13": {
+		"Target": "./HTML/Topics/004_acl injury.html",
+		"title": "ACL Injury"
+		},
+	"14": {
+		"Target": "./HTML/Topics/005_acne-rosacea.html",
+		"title": "Acne Rosacea"
+		},
+	"15": {
+		"Target": "./HTML/Topics/006_acne-vulgaris.html",
+		"title": "Acne Vulgaris"
+		},
+	"16": {
+		"Target": "./HTML/Topics/007_acoustic_neuroma.html",
+		"title": "Acoustic Neuroma"
+		},
+	"17": {
+		"Target": "./HTML/Topics/008_acute_coronary_syndromes.html",
+		"title": "Acute Coronary Syndromes: STEMI"
+		},
+	"18": {
+		"Target": "./HTML/Topics/009_acute-coronary-syndromes-unstable-angina-and-nstemi.html",
+		"title": "Acute Coronary Syndromes: Unstable Angina and NSTEMI"
+		},
+	"19": {
+		"Target": "./HTML/Topics/010_acute-kidney-injury.html",
+		"title": "Acute Kidney Injury"
+		},
+	"20": {
+		"Target": "./HTML/Topics/011_addison-disease.html",
+		"title": "Addison Disease"
+		},
+	"21": {
+		"Target": "./HTML/Topics/012_adenovirus_infections.html",
+		"title": "Adenovirus Infections"
+		},
+	"22": {
+		"Target": "./HTML/Topics/013_adhesive-capsulitis.html",
+		"title": "Adhesive Capsulitis (Frozen Shoulder)"
+		},
+	"23": {
+		"Target": "./HTML/Topics/014_adoption_international.html",
+		"title": "Adoption, International"
+		},
+	"24": {
+		"Target": "./HTML/Topics/015_alcohol-abuse-and-dependence.html",
+		"title": "Alcohol Abuse and Dependence"
+		},
+	"25": {
+		"Target": "./HTML/Topics/016_alcohol withdrawal.html",
+		"title": "Alcohol Withdrawal"
+		},
+	"26": {
+		"Target": "./HTML/Topics/017_alopecia.html",
+		"title": "Alopecia"
+		},
+	"27": {
+		"Target": "./HTML/Topics/018_alzheimer-disease.html",
+		"title": "Alzheimer Disease"
+		},
+	"28": {
+		"Target": "./HTML/Topics/019_amenorrhea.html",
+		"title": "Amenorrhea"
+		},
+	"29": {
+		"Target": "./HTML/Topics/020_amyotrophic-lateral-sclerosis.html",
+		"title": "Amyotrophic Lateral Sclerosis"
+		},
+	"30": {
+		"Target": "./HTML/Topics/021_anabolic-steroid-abuse.html",
+		"title": "Anabolic Steroid Abuse"
+		},
+	"31": {
+		"Target": "./HTML/Topics/022_anal-fissure.html",
+		"title": "Anal Fissure"
+		},
+	"32": {
+		"Target": "./HTML/Topics/023_anemia_aplastic.html",
+		"title": "Anemia, Aplastic"
+		},
+	"33": {
+		"Target": "./HTML/Topics/024_anemia_autoimmune_hemolytic.html",
+		"title": "Anemia, Autoimmune Hemolytic"
+		},
+	"34": {
+		"Target": "./HTML/Topics/025_anemia chronic disease.html",
+		"title": "Anemia, Chronic Disease"
+		},
+	"35": {
+		"Target": "./HTML/Topics/026_anemia_iron_deficiency.html",
+		"title": "Anemia, Iron Deficiency"
+		},
+	"36": {
+		"Target": "./HTML/Topics/027_anemia-sickle-cell.html",
+		"title": "Anemia, Sickle Cell"
+		},
+	"37": {
+		"Target": "./HTML/Topics/028_aneurysm_of_the_abdominal_aorta.html",
+		"title": "Aneurysm of the Abdominal Aorta"
+		},
+	"38": {
+		"Target": "./HTML/Topics/029_angioedema.html",
+		"title": "Angioedema"
+		},
+	"39": {
+		"Target": "./HTML/Topics/030_ankle_fractures_2016_ver2.html",
+		"title": "Ankle Fractures"
+		},
+	"40": {
+		"Target": "./HTML/Topics/031_ankylosing_spondylitis.html",
+		"title": "Ankylosing Spondylitis"
+		},
+	"41": {
+		"Target": "./HTML/Topics/032_anorectal-fistula.html",
+		"title": "Anorectal Fistula"
+		},
+	"42": {
+		"Target": "./HTML/Topics/033_anorexia_nervosa.html",
+		"title": "Anorexia Nervosa"
+		},
+	"43": {
+		"Target": "./HTML/Topics/034_antiphospholipid_antibody_syndrome.html",
+		"title": "Antiphospholipid Antibody Syndrome"
+		},
+	"44": {
+		"Target": "./HTML/Topics/035_antithrombin_deficiency.html",
+		"title": "Antithrombin Deficiency"
+		},
+	"45": {
+		"Target": "./HTML/Topics/036_anxiety.html",
+		"title": "Anxiety"
+		},
+	"46": {
+		"Target": "./HTML/Topics/037_aortic_valvular_stenosis.html",
+		"title": "Aortic Valvular Stenosis"
+		},
+	"47": {
+		"Target": "./HTML/Topics/038_arteritis_temporal.html",
+		"title": "Arteritis, Temporal"
+		},
+	"48": {
+		"Target": "./HTML/Topics/039_arthritis_juvenile_idiopathic.html",
+		"title": "Arthritis, Juvenile Idiopathic"
+		},
+	"49": {
+		"Target": "./HTML/Topics/040_arthritis_psoriatic_2016.html",
+		"title": "Arthritis, Psoriatic"
+		},
+	"50": {
+		"Target": "./HTML/Topics/041_arthritis-rheumatoid.html",
+		"title": "Arthritis, Rheumatoid (RA)"
+		},
+	"51": {
+		"Target": "./HTML/Topics/042_arthritis_septic_v2.html",
+		"title": "Arthritis, Septic"
+		},
+	"52": {
+		"Target": "./HTML/Topics/043_arthropod-bites-and-stings.html",
+		"title": "Arthropod Bites and Stings"
+		},
+	"53": {
+		"Target": "./HTML/Topics/044_ascites.html",
+		"title": "Ascites"
+		},
+	"54": {
+		"Target": "./HTML/Topics/045_asthma.html",
+		"title": "Asthma"
+		},
+	"55": {
+		"Target": "./HTML/Topics/046_atelectasis.html",
+		"title": "Atelectasis"
+		},
+	"56": {
+		"Target": "./HTML/Topics/047_atrial-fibrillation-and-atrial-flutter.html",
+		"title": "Atrial Fibrillation and Atrial Flutter"
+		},
+	"57": {
+		"Target": "./HTML/Topics/048_atrial-septal-defect.html",
+		"title": "Atrial Septal Defect"
+		},
+	"58": {
+		"Target": "./HTML/Topics/049_attention_deficit-hyperactivity_disorder_adult.html",
+		"title": "Attention Deficit/Hyperactivity Disorder, Adult"
+		},
+	"59": {
+		"Target": "./HTML/Topics/050_attention-deficit-hyperactivity-disorder-pediatric.html",
+		"title": "Attention Deficit/Hyperactivity Disorder, Pediatric"
+		},
+	"60": {
+		"Target": "./HTML/Topics/051_autism_spectrum_disorders.html",
+		"title": "Autism Spectrum Disorders"
+		},
+	"61": {
+		"Target": "./HTML/Topics/052_back_pain_lowmbs.html",
+		"title": "Back Pain, Low"
+		},
+	"62": {
+		"Target": "./HTML/Topics/053_bacteriuria_asymptomatic.html",
+		"title": "Bacteriuria, Asymptomatic"
+		},
+	"63": {
+		"Target": "./HTML/Topics/054_balanitis_phimosis_and_paraphimosis.html",
+		"title": "Balanitis, Phimosis, and Paraphimosis"
+		},
+	"64": {
+		"Target": "./HTML/Topics/055_barotrauma_of_the_middle_ear_sinuses_and_lung.html",
+		"title": "Barotrauma of the Middle Ear, Sinuses, and Lung"
+		},
+	"65": {
+		"Target": "./HTML/Topics/056_barretts_esophagus.html",
+		"title": "Barrett Esophagus"
+		},
+	"66": {
+		"Target": "./HTML/Topics/057_basal_cell_carcinoma.html",
+		"title": "Basal Cell Carcinoma"
+		},
+	"67": {
+		"Target": "./HTML/Topics/058_bed-bugs.html",
+		"title": "Bed Bugs"
+		},
+	"68": {
+		"Target": "./HTML/Topics/059_behavioral-problems-pediatric.html",
+		"title": "Behavioral Problems, Pediatric"
+		},
+	"69": {
+		"Target": "./HTML/Topics/060_bell_palsy.html",
+		"title": "Bell Palsy"
+		},
+	"70": {
+		"Target": "./HTML/Topics/061_bipolar_i_disorder.html",
+		"title": "Bipolar I Disorder"
+		},
+	"71": {
+		"Target": "./HTML/Topics/062_bipolar_ii_disorder.html",
+		"title": "Bipolar II Disorder"
+		},
+	"72": {
+		"Target": "./HTML/Topics/063_bites-animal-and-human.html",
+		"title": "Bites, Animal and Human"
+		},
+	"73": {
+		"Target": "./HTML/Topics/064_bladder-cancer.html",
+		"title": "Bladder Cancer"
+		},
+	"74": {
+		"Target": "./HTML/Topics/065_bladder-injury.html",
+		"title": "Bladder Injury"
+		},
+	"75": {
+		"Target": "./HTML/Topics/066_blepharitis.html",
+		"title": "Blepharitis"
+		},
+	"76": {
+		"Target": "./HTML/Topics/067_borderline_personality_disorder.html",
+		"title": "Borderline Personality Disorder"
+		},
+	"77": {
+		"Target": "./HTML/Topics/068_brain_injury_traumatic.html",
+		"title": "Brain Injury, Traumatic"
+		},
+	"78": {
+		"Target": "./HTML/Topics/069_breast_abscess.html",
+		"title": "Breast Abscess"
+		},
+	"79": {
+		"Target": "./HTML/Topics/070_breast_cancer.html",
+		"title": "Breast Cancer"
+		},
+	"80": {
+		"Target": "./HTML/Topics/071_breastfeeding_2016.html",
+		"title": "Breastfeeding"
+		},
+	"81": {
+		"Target": "./HTML/Topics/072_bronchiectasis.html",
+		"title": "Bronchiectasis"
+		},
+	"82": {
+		"Target": "./HTML/Topics/073_bronchiolitis.html",
+		"title": "Bronchiolitis"
+		},
+	"83": {
+		"Target": "./HTML/Topics/074_bronchiolitis_obliterans_and_organizing_pneumonia.html",
+		"title": "Bronchiolitis Obliterans and Organizing Pneumonia"
+		},
+	"84": {
+		"Target": "./HTML/Topics/075_bronchitis,_acute_2016_v2.html",
+		"title": "Bronchitis, Acute"
+		},
+	"85": {
+		"Target": "./HTML/Topics/076_bulimia_nervosa.html",
+		"title": "Bulimia Nervosa"
+		},
+	"86": {
+		"Target": "./HTML/Topics/077_bunion_2016.html",
+		"title": "Bunion (Hallux Valgus)"
+		},
+	"87": {
+		"Target": "./HTML/Topics/078_burns.html",
+		"title": "Burns"
+		},
+	"88": {
+		"Target": "./HTML/Topics/079_bursitis.html",
+		"title": "Bursitis"
+		},
+	"89": {
+		"Target": "./HTML/Topics/080_bursitis_pes_anserine.html",
+		"title": "Bursitis, Pes Anserine"
+		},
+	"90": {
+		"Target": "./HTML/Topics/081_candidiasis_mucocutaneous.html",
+		"title": "Candidiasis, Mucocutaneous"
+		},
+	"91": {
+		"Target": "./HTML/Topics/082_cardiac-arrest.html",
+		"title": "Cardiac Arrest"
+		},
+	"92": {
+		"Target": "./HTML/Topics/083_cardiomyopathy_end_stage.html",
+		"title": "Cardiomyopathy, End Stage"
+		},
+	"93": {
+		"Target": "./HTML/Topics/084_carotid-stenosis.html",
+		"title": "Carotid Stenosis"
+		},
+	"94": {
+		"Target": "./HTML/Topics/085_carpal-tunnel-syndrome.html",
+		"title": "Carpal Tunnel Syndrome"
+		},
+	"95": {
+		"Target": "./HTML/Topics/086_cataract.html",
+		"title": "Cataract"
+		},
+	"96": {
+		"Target": "./HTML/Topics/087_celiac_disease.html",
+		"title": "Celiac Disease"
+		},
+	"97": {
+		"Target": "./HTML/Topics/088_cellulitis.html",
+		"title": "Cellulitis"
+		},
+	"98": {
+		"Target": "./HTML/Topics/089_cellulitis_orbital.html",
+		"title": "Cellulitis, Orbital"
+		},
+	"99": {
+		"Target": "./HTML/Topics/090_cellulitis periorbital.html",
+		"title": "Cellulitis, Periorbital"
+		},
+	"100": {
+		"Target": "./HTML/Topics/091_cerebral-palsy.html",
+		"title": "Cerebral Palsy"
+		},
+	"101": {
+		"Target": "./HTML/Topics/092_cervical_hyperextension_injuries.html",
+		"title": "Cervical Hyperextension Injuries"
+		},
+	"102": {
+		"Target": "./HTML/Topics/093_cervical-malignancy.html",
+		"title": "Cervical Malignancy"
+		},
+	"103": {
+		"Target": "./HTML/Topics/094_cervicitis-ectropion-and-true-erosion.html",
+		"title": "Cervicitis, Ectropion, and True Erosion"
+		},
+	"104": {
+		"Target": "./HTML/Topics/095_chancroid.html",
+		"title": "Chancroid"
+		},
+	"105": {
+		"Target": "./HTML/Topics/096_chickenpox.html",
+		"title": "Chickenpox (Varicella Zoster)"
+		},
+	"106": {
+		"Target": "./HTML/Topics/097_child_abuse.html",
+		"title": "Child Abuse"
+		},
+	"107": {
+		"Target": "./HTML/Topics/098_chlamydia_infection.html",
+		"title": "Chlamydia Infection (Sexually Transmitted)"
+		},
+	"108": {
+		"Target": "./HTML/Topics/099_chlamydophila_pneumoniae.html",
+		"title": "Chlamydophila Pneumoniae"
+		},
+	"109": {
+		"Target": "./HTML/Topics/100_cholelithiasis.html",
+		"title": "Cholelithiasis"
+		},
+	"110": {
+		"Target": "./HTML/Topics/101_chronic_fatigue_syndrome.html",
+		"title": "Chronic Fatigue Syndrome"
+		},
+	"111": {
+		"Target": "./HTML/Topics/102_chronic-kidney-disease.html",
+		"title": "Chronic Kidney Disease"
+		},
+	"112": {
+		"Target": "./HTML/Topics/103_chronic-obstructive-pulmonary-disease-and-emphysema.html",
+		"title": "Chronic Obstructive Pulmonary Disease and Emphysema"
+		},
+	"113": {
+		"Target": "./HTML/Topics/104_chronic-pain-management.html",
+		"title": "Chronic Pain Management an Evidence-based Approach"
+		},
+	"114": {
+		"Target": "./HTML/Topics/105_cirrhosis-of-the-liver.html",
+		"title": "Cirrhosis of the Liver"
+		},
+	"115": {
+		"Target": "./HTML/Topics/106_clostridium_difficile_infection.html",
+		"title": "Clostridium Difficile Infection"
+		},
+	"116": {
+		"Target": "./HTML/Topics/107_colic_infantile.html",
+		"title": "Colic, Infantile"
+		},
+	"117": {
+		"Target": "./HTML/Topics/108_colitis_ischemic.html",
+		"title": "Colitis, Ischemic"
+		},
+	"118": {
+		"Target": "./HTML/Topics/109_colonic_polyps.html",
+		"title": "Colonic Polyps"
+		},
+	"119": {
+		"Target": "./HTML/Topics/110_colorectal_cancer.html",
+		"title": "Colorectal Cancer"
+		},
+	"120": {
+		"Target": "./HTML/Topics/111_complementary_and_alternative_medicine.html",
+		"title": "Complementary and Alternative Medicine"
+		},
+	"121": {
+		"Target": "./HTML/Topics/112_complex_regional_pain_syndrome.html",
+		"title": "COMPLEX REGIONAL PAIN SYNDROME"
+		},
+	"122": {
+		"Target": "./HTML/Topics/113_concussion_mild_traumatic_brain_injury_2016.html",
+		"title": "Concussion (Mild Traumatic Brain Injury)"
+		},
+	"123": {
+		"Target": "./HTML/Topics/114_condylomata-acuminata.html",
+		"title": "Condylomata Acuminata"
+		},
+	"124": {
+		"Target": "./HTML/Topics/115_constipation.html",
+		"title": "Constipation"
+		},
+	"125": {
+		"Target": "./HTML/Topics/116_contraception.html",
+		"title": "Contraception"
+		},
+	"126": {
+		"Target": "./HTML/Topics/117_cor_pulmonale.html",
+		"title": "Cor Pulmonale"
+		},
+	"127": {
+		"Target": "./HTML/Topics/118_corneal-abrasion-and-ulceration.html",
+		"title": "Corneal Abrasion and Ulceration"
+		},
+	"128": {
+		"Target": "./HTML/Topics/119_corns_and_calluses.html",
+		"title": "Corns and Calluses"
+		},
+	"129": {
+		"Target": "./HTML/Topics/120_coronary-artery-disease-and-stable-angina.html",
+		"title": "Coronary Artery Disease and Stable Angina"
+		},
+	"130": {
+		"Target": "./HTML/Topics/121_costochondritis.html",
+		"title": "Costochondritis"
+		},
+	"131": {
+		"Target": "./HTML/Topics/122_counseling-types.html",
+		"title": "Counseling Types"
+		},
+	"132": {
+		"Target": "./HTML/Topics/123_crohn_disease.html",
+		"title": "Crohn Disease"
+		},
+	"133": {
+		"Target": "./HTML/Topics/124_croup_laryngotracheobronchitis_2016_v2.html",
+		"title": "Croup (Laryngotracheobronchitis)"
+		},
+	"134": {
+		"Target": "./HTML/Topics/125_cryptorchidism.html",
+		"title": "Cryptorchidism"
+		},
+	"135": {
+		"Target": "./HTML/Topics/126_cubital_tunnel_syndrome_and_other_ulnar_neuropathies.html",
+		"title": "Cubital Tunnel Syndrome and Other Ulnar Neuropathies"
+		},
+	"136": {
+		"Target": "./HTML/Topics/127_cushing_disease_and_cushing_syndrome.html",
+		"title": "Cushing Disease and Cushing Syndrome"
+		},
+	"137": {
+		"Target": "./HTML/Topics/128_cutaneous_drug_reactions.html",
+		"title": "Cutaneous Drug Reactions"
+		},
+	"138": {
+		"Target": "./HTML/Topics/129_cyberbullying.html",
+		"title": "Cyberbullying"
+		},
+	"139": {
+		"Target": "./HTML/Topics/130_cystic-fibrosis.html",
+		"title": "Cystic Fibrosis"
+		},
+	"140": {
+		"Target": "./HTML/Topics/131_cytomegalovirus_inclusion_disease.html",
+		"title": "Cytomegalovirus (CMV) Inclusion Disease"
+		},
+	"141": {
+		"Target": "./HTML/Topics/132_de_quervain_tenosynovitis.html",
+		"title": "De Quervain Tenosynovitis"
+		},
+	"142": {
+		"Target": "./HTML/Topics/133_deep_vein_thrombophlebitis.html",
+		"title": "Deep Vein Thrombophlebitis"
+		},
+	"143": {
+		"Target": "./HTML/Topics/134_dehydration_rev.html",
+		"title": "Dehydration"
+		},
+	"144": {
+		"Target": "./HTML/Topics/135_delayed-sleep-wake-phase-disorder.html",
+		"title": "Delayed Sleep-Wake Phase Disorder (DSWPD)"
+		},
+	"145": {
+		"Target": "./HTML/Topics/136_delirium.html",
+		"title": "Delirium"
+		},
+	"146": {
+		"Target": "./HTML/Topics/137_dementia.html",
+		"title": "Dementia"
+		},
+	"147": {
+		"Target": "./HTML/Topics/138_dementia-vascular.html",
+		"title": "Dementia Vascular"
+		},
+	"148": {
+		"Target": "./HTML/Topics/139_dental_infection.html",
+		"title": "Dental Infection"
+		},
+	"149": {
+		"Target": "./HTML/Topics/140_depression.html",
+		"title": "Depression"
+		},
+	"150": {
+		"Target": "./HTML/Topics/141_depression_adolescent.html",
+		"title": "Depression, Adolescent"
+		},
+	"151": {
+		"Target": "./HTML/Topics/142_depression,geriatric.html",
+		"title": "DEPRESSION, GERIATRIC"
+		},
+	"152": {
+		"Target": "./HTML/Topics/143_depression-postpartum.html",
+		"title": "Depression, Postpartum"
+		},
+	"153": {
+		"Target": "./HTML/Topics/144_depression_treatment_resistant.html",
+		"title": "Depression, Treatment Resistant"
+		},
+	"154": {
+		"Target": "./HTML/Topics/145_dermatitis_herpetiformis.html",
+		"title": "Dermatitis Herpetiformis"
+		},
+	"155": {
+		"Target": "./HTML/Topics/146_dermatitis_atopic.html",
+		"title": "Dermatitis, Atopic"
+		},
+	"156": {
+		"Target": "./HTML/Topics/147_dermatitis_contact.html",
+		"title": "Dermatitis, Contact"
+		},
+	"157": {
+		"Target": "./HTML/Topics/148_dermatitis_diaper.html",
+		"title": "Dermatitis, Diaper"
+		},
+	"158": {
+		"Target": "./HTML/Topics/149_dermatitis-seborrheic.html",
+		"title": "Dermatitis, Seborrheic"
+		},
+	"159": {
+		"Target": "./HTML/Topics/150_dermatitis-stasis.html",
+		"title": "Dermatitis, Stasis"
+		},
+	"160": {
+		"Target": "./HTML/Topics/151_diabetes_mellitus_type1.html",
+		"title": "Diabetes Mellitus, Type 1"
+		},
+	"161": {
+		"Target": "./HTML/Topics/152_diabetes_mellitus_type_2.html",
+		"title": "Diabetes Mellitus, Type 2"
+		},
+	"162": {
+		"Target": "./HTML/Topics/153_diabetic-ketoacidosis.html",
+		"title": "Diabetic Ketoacidosis"
+		},
+	"163": {
+		"Target": "./HTML/Topics/154_diarrhea-acute.html",
+		"title": "Diarrhea, Acute"
+		},
+	"164": {
+		"Target": "./HTML/Topics/155_diarrhea_chronic.html",
+		"title": "Diarrhea, Chronic"
+		},
+	"165": {
+		"Target": "./HTML/Topics/156_diffuse-interstitial-lung-disease.html",
+		"title": "Diffuse Interstitial Lung Disease"
+		},
+	"166": {
+		"Target": "./HTML/Topics/157_disseminated-intravascular-coagulation.html",
+		"title": "Disseminated Intravascular Coagulation"
+		},
+	"167": {
+		"Target": "./HTML/Topics/158_diverticular-disease.html",
+		"title": "Diverticular Disease"
+		},
+	"168": {
+		"Target": "./HTML/Topics/159_domestic-violence.html",
+		"title": "Domestic Violence"
+		},
+	"169": {
+		"Target": "./HTML/Topics/160_down-syndrome.html",
+		"title": "Down Syndrome"
+		},
+	"170": {
+		"Target": "./HTML/Topics/161_drug_abuse_prescription.html",
+		"title": "Drug Abuse, Prescription"
+		},
+	"171": {
+		"Target": "./HTML/Topics/162_ductal-carcinoma-in-situ.html",
+		"title": "Ductal Carcinoma in Situ"
+		},
+	"172": {
+		"Target": "./HTML/Topics/163_dumping_syndrome.html",
+		"title": "Dumping Syndrome"
+		},
+	"173": {
+		"Target": "./HTML/Topics/164_dupuytren_contracture.html",
+		"title": "Dupuytren Contracture"
+		},
+	"174": {
+		"Target": "./HTML/Topics/165_dyshidrosis.html",
+		"title": "Dyshidrosis"
+		},
+	"175": {
+		"Target": "./HTML/Topics/166_dysmenorrhea.html",
+		"title": "Dysmenorrhea"
+		},
+	"176": {
+		"Target": "./HTML/Topics/167_dyspareunia.html",
+		"title": "Dyspareunia"
+		},
+	"177": {
+		"Target": "./HTML/Topics/168_dyspepsia functional.html",
+		"title": "Dyspepsia, Functional"
+		},
+	"178": {
+		"Target": "./HTML/Topics/169_dysphagia.html",
+		"title": "Dysphagia"
+		},
+	"179": {
+		"Target": "./HTML/Topics/170_dysplastic-nevus-syndrome.html",
+		"title": "Dysplastic Nevus Syndrome"
+		},
+	"180": {
+		"Target": "./HTML/Topics/171_ectopic_pregnancy.html",
+		"title": "Ectopic Pregnancy"
+		},
+	"181": {
+		"Target": "./HTML/Topics/172_ejaculatory-disorders.html",
+		"title": "Ejaculatory Disorders"
+		},
+	"182": {
+		"Target": "./HTML/Topics/173_elder-abuse.html",
+		"title": "Elder Abuse"
+		},
+	"183": {
+		"Target": "./HTML/Topics/174_encephalitis_viral.html",
+		"title": "Encephalitis, Viral"
+		},
+	"184": {
+		"Target": "./HTML/Topics/175_encopresis.html",
+		"title": "Encopresis"
+		},
+	"185": {
+		"Target": "./HTML/Topics/176_endocarditis-infective.html",
+		"title": "Endocarditis, Infective"
+		},
+	"186": {
+		"Target": "./HTML/Topics/177_endometrial_cancer_and_uterine_sarcoma.html",
+		"title": "Endometrial Cancer and Uterine Sarcoma"
+		},
+	"187": {
+		"Target": "./HTML/Topics/178_endometriosis.html",
+		"title": "Endometriosis"
+		},
+	"188": {
+		"Target": "./HTML/Topics/179_endometritis-and-other-postpartum-infections.html",
+		"title": "Endometritis and Other Postpartum Infections"
+		},
+	"189": {
+		"Target": "./HTML/Topics/180_enuresis.html",
+		"title": "Enuresis"
+		},
+	"190": {
+		"Target": "./HTML/Topics/181_eosinophilic_esophagitis.html",
+		"title": "Eosinophilic Esophagitis"
+		},
+	"191": {
+		"Target": "./HTML/Topics/182_epicondylitis.html",
+		"title": "Epicondylitis"
+		},
+	"192": {
+		"Target": "./HTML/Topics/183_epididymitis.html",
+		"title": "Epididymitis"
+		},
+	"193": {
+		"Target": "./HTML/Topics/184_episcleritis.html",
+		"title": "Episcleritis"
+		},
+	"194": {
+		"Target": "./HTML/Topics/185_erectile_dysfunction.html",
+		"title": "Erectile Dysfunction"
+		},
+	"195": {
+		"Target": "./HTML/Topics/186_erysipelas.html",
+		"title": "Erysipelas"
+		},
+	"196": {
+		"Target": "./HTML/Topics/187_erythema_multiforme.html",
+		"title": "Erythema Multiforme"
+		},
+	"197": {
+		"Target": "./HTML/Topics/188_erythema-nodosum.html",
+		"title": "Erythema Nodosum"
+		},
+	"198": {
+		"Target": "./HTML/Topics/189_esophageal-varices.html",
+		"title": "Esophageal Varices"
+		},
+	"199": {
+		"Target": "./HTML/Topics/190_essential-tremor-syndrome.html",
+		"title": "Essential Tremor Syndrome"
+		},
+	"200": {
+		"Target": "./HTML/Topics/191_eustachiantubedysfunction_kowalski_wheelermbs.html",
+		"title": "Eustachian Tube Dysfunction"
+		},
+	"201": {
+		"Target": "./HTML/Topics/192_factor_v_leiden_2016.html",
+		"title": "Factor V Leiden"
+		},
+	"202": {
+		"Target": "./HTML/Topics/193_failure-to-thrive.html",
+		"title": "Failure to Thrive"
+		},
+	"203": {
+		"Target": "./HTML/Topics/194_fecal_impaction.html",
+		"title": "Fecal Impaction"
+		},
+	"204": {
+		"Target": "./HTML/Topics/195_female_athlete_triad.html",
+		"title": "Female Athlete Triad"
+		},
+	"205": {
+		"Target": "./HTML/Topics/196_fever-of-unknown-origin.html",
+		"title": "Fever of Unknown Origin (FUO)"
+		},
+	"206": {
+		"Target": "./HTML/Topics/197_fibrocystic_changes_of_the_breast.html",
+		"title": "Fibrocystic Changes of The Breast"
+		},
+	"207": {
+		"Target": "./HTML/Topics/198_fibromyalgia.html",
+		"title": "Fibromyalgia"
+		},
+	"208": {
+		"Target": "./HTML/Topics/199_folliculitis.html",
+		"title": "Folliculitis"
+		},
+	"209": {
+		"Target": "./HTML/Topics/200_food-allergy.html",
+		"title": "Food Allergy"
+		},
+	"210": {
+		"Target": "./HTML/Topics/201_food-poisoning-bacterial.html",
+		"title": "Food Poisoning, Bacterial"
+		},
+	"211": {
+		"Target": "./HTML/Topics/202_fragile_x_syndrome.html",
+		"title": "Fragile X Syndrome"
+		},
+	"212": {
+		"Target": "./HTML/Topics/203_furunculosis.html",
+		"title": "Furunculosis"
+		},
+	"213": {
+		"Target": "./HTML/Topics/204_galactorrhea.html",
+		"title": "Galactorrhea"
+		},
+	"214": {
+		"Target": "./HTML/Topics/205_gambling_addiction.html",
+		"title": "Gambling Addiction"
+		},
+	"215": {
+		"Target": "./HTML/Topics/206_ganglion_cyst.html",
+		"title": "Ganglion Cyst"
+		},
+	"216": {
+		"Target": "./HTML/Topics/207_gastric-cancer.html",
+		"title": "Gastric Cancer"
+		},
+	"217": {
+		"Target": "./HTML/Topics/208_gastritis.html",
+		"title": "Gastritis"
+		},
+	"218": {
+		"Target": "./HTML/Topics/209_gastroesophageal_reflux_disease.html",
+		"title": "Gastroesophageal Reflux Disease"
+		},
+	"219": {
+		"Target": "./HTML/Topics/210_genito-pelvic-pain-penetration-disorder.html",
+		"title": "Genito-Pelvic Pain/penetration Disorder (Vaginismus)"
+		},
+	"220": {
+		"Target": "./HTML/Topics/211_giardiasis.html",
+		"title": "Giardiasis"
+		},
+	"221": {
+		"Target": "./HTML/Topics/212_gilbert_disease.html",
+		"title": "Gilbert Disease"
+		},
+	"222": {
+		"Target": "./HTML/Topics/213_gingivitis.html",
+		"title": "Gingivitis"
+		},
+	"223": {
+		"Target": "./HTML/Topics/214_glaucoma-primary-closed-angle.html",
+		"title": "Glaucoma, Primary Closed-Angle"
+		},
+	"224": {
+		"Target": "./HTML/Topics/215_glaucoma_primary_open-angle.html",
+		"title": "Glaucoma, Primary Open-Angle"
+		},
+	"225": {
+		"Target": "./HTML/Topics/216_glomerulonephritis_acute.html",
+		"title": "Glomerulonephritis, Acute"
+		},
+	"226": {
+		"Target": "./HTML/Topics/217_glomerulonephritis-postinfectious.html",
+		"title": "Glomerulonephritis Postinfectious"
+		},
+	"227": {
+		"Target": "./HTML/Topics/218_glucose_intolerance_2016.html",
+		"title": "Glucose Intolerance"
+		},
+	"228": {
+		"Target": "./HTML/Topics/219_gonococcal_infections_2016.html",
+		"title": "Gonococcal Infections"
+		},
+	"229": {
+		"Target": "./HTML/Topics/220_gout.html",
+		"title": "Gout"
+		},
+	"230": {
+		"Target": "./HTML/Topics/221_granuloma_annulare.html",
+		"title": "Granuloma Annulare"
+		},
+	"231": {
+		"Target": "./HTML/Topics/222_granuloma_pyogenic.html",
+		"title": "Granuloma, Pyogenic"
+		},
+	"232": {
+		"Target": "./HTML/Topics/223_graves_disease.html",
+		"title": "Graves Disease"
+		},
+	"233": {
+		"Target": "./HTML/Topics/224_growth_hormone_deficiency.html",
+		"title": "Growth Hormone Deficiency"
+		},
+	"234": {
+		"Target": "./HTML/Topics/225_guillain-barre_syndrome.html",
+		"title": "Guillain-barr&#x00c9; Syndrome"
+		},
+	"235": {
+		"Target": "./HTML/Topics/226_gynecomastia.html",
+		"title": "Gynecomastia"
+		},
+	"236": {
+		"Target": "./HTML/Topics/227_hammer-toes.html",
+		"title": "Hammer Toes"
+		},
+	"237": {
+		"Target": "./HTML/Topics/228_hand-foot-and-mouth-disease.html",
+		"title": "Hand-Foot-and-Mouth Disease"
+		},
+	"238": {
+		"Target": "./HTML/Topics/229_headache_cluster.html",
+		"title": "Headache, Cluster"
+		},
+	"239": {
+		"Target": "./HTML/Topics/230_headache_migraine_2016_v2.html",
+		"title": "Headache, Migraine"
+		},
+	"240": {
+		"Target": "./HTML/Topics/231_headache_tension.html",
+		"title": "Headache, Tension"
+		},
+	"241": {
+		"Target": "./HTML/Topics/232_hearing_loss.html",
+		"title": "Hearing Loss"
+		},
+	"242": {
+		"Target": "./HTML/Topics/233_heart_failure_acutely_decompensated.html",
+		"title": "Heart Failure, Acutely Decompensated"
+		},
+	"243": {
+		"Target": "./HTML/Topics/234_heart-failure-chronic.html",
+		"title": "Heart Failure, Chronic"
+		},
+	"244": {
+		"Target": "./HTML/Topics/235_heat_exhaustion_and_heat_stroke_2016.html",
+		"title": "Heat Exhaustion and Heat Stroke"
+		},
+	"245": {
+		"Target": "./HTML/Topics/236_hematuria.html",
+		"title": "Hematuria"
+		},
+	"246": {
+		"Target": "./HTML/Topics/237_hemochromatosis.html",
+		"title": "Hemochromatosis"
+		},
+	"247": {
+		"Target": "./HTML/Topics/238_hemophilia.html",
+		"title": "Hemophilia"
+		},
+	"248": {
+		"Target": "./HTML/Topics/239_hemorrhoids.html",
+		"title": "Hemorrhoids"
+		},
+	"249": {
+		"Target": "./HTML/Topics/240_henoch-sch+nlein_purpura_2016.html",
+		"title": "Henoch-Sch&#x00F6;nlein Purpura"
+		},
+	"250": {
+		"Target": "./HTML/Topics/241_heparin-induced-thrombocytopenia.html",
+		"title": "Heparin-Induced Thrombocytopenia"
+		},
+	"251": {
+		"Target": "./HTML/Topics/242_hepatic_encephalopathy.html",
+		"title": "Hepatic Encephalopathy"
+		},
+	"252": {
+		"Target": "./HTML/Topics/243_hepatitis-a.html",
+		"title": "Hepatitis A"
+		},
+	"253": {
+		"Target": "./HTML/Topics/244_hepatitis_b.html",
+		"title": "Hepatitis B"
+		},
+	"254": {
+		"Target": "./HTML/Topics/245_hepatitis-c.html",
+		"title": "Hepatitis C"
+		},
+	"255": {
+		"Target": "./HTML/Topics/246_hepatoma.html",
+		"title": "Hepatoma"
+		},
+	"256": {
+		"Target": "./HTML/Topics/247_hepatorenal_syndrome.html",
+		"title": "Hepatorenal Syndrome"
+		},
+	"257": {
+		"Target": "./HTML/Topics/248_hernia.html",
+		"title": "Hernia"
+		},
+	"258": {
+		"Target": "./HTML/Topics/249_herpes-eye-infections.html",
+		"title": "Herpes Eye Infections"
+		},
+	"259": {
+		"Target": "./HTML/Topics/250_herpes_simplex.html",
+		"title": "Herpes Simplex"
+		},
+	"260": {
+		"Target": "./HTML/Topics/251_herpes_zoster.html",
+		"title": "Herpes Zoster (Shingles)"
+		},
+	"261": {
+		"Target": "./HTML/Topics/252_herpes_genital.html",
+		"title": "Herpes, Genital"
+		},
+	"262": {
+		"Target": "./HTML/Topics/253_hiccups.html",
+		"title": "Hiccups"
+		},
+	"263": {
+		"Target": "./HTML/Topics/254_hidradenitis_suppurativa.html",
+		"title": "Hidradenitis Suppurativa"
+		},
+	"264": {
+		"Target": "./HTML/Topics/255_hirsutism.html",
+		"title": "Hirsutism"
+		},
+	"265": {
+		"Target": "./HTML/Topics/256_hiv-aids.html",
+		"title": "HIV/AIDS"
+		},
+	"266": {
+		"Target": "./HTML/Topics/257_hodgkin_lymphoma.html",
+		"title": "Hodgkin Lymphoma"
+		},
+	"267": {
+		"Target": "./HTML/Topics/258_homelessness.html",
+		"title": "Homelessness"
+		},
+	"268": {
+		"Target": "./HTML/Topics/259_hordeolum.html",
+		"title": "Hordeolum (Stye)"
+		},
+	"269": {
+		"Target": "./HTML/Topics/260_horner_syndrome.html",
+		"title": "Horner Syndrome"
+		},
+	"270": {
+		"Target": "./HTML/Topics/261_hydrocele.html",
+		"title": "Hydrocele"
+		},
+	"271": {
+		"Target": "./HTML/Topics/262_hydrocephalus_normal_pressure.html",
+		"title": "Hydrocephalus, Normal Pressure"
+		},
+	"272": {
+		"Target": "./HTML/Topics/263_hydronephrosis.html",
+		"title": "Hydronephrosis"
+		},
+	"273": {
+		"Target": "./HTML/Topics/264_hypercholesterolemia.html",
+		"title": "Hypercholesterolemia"
+		},
+	"274": {
+		"Target": "./HTML/Topics/265_hyperemesis_gravidarum_2016.html",
+		"title": "Hyperemesis Gravidarum"
+		},
+	"275": {
+		"Target": "./HTML/Topics/266_hypereosinophilic_syndrome.html",
+		"title": "Hypereosinophilic Syndrome"
+		},
+	"276": {
+		"Target": "./HTML/Topics/267_hyperkalemia.html",
+		"title": "Hyperkalemia"
+		},
+	"277": {
+		"Target": "./HTML/Topics/268_hypernatremia.html",
+		"title": "Hypernatremia"
+		},
+	"278": {
+		"Target": "./HTML/Topics/269_hyperparathyroidism.html",
+		"title": "Hyperparathyroidism"
+		},
+	"279": {
+		"Target": "./HTML/Topics/270_hyperprolactinemia_2016.html",
+		"title": "Hyperprolactinemia"
+		},
+	"280": {
+		"Target": "./HTML/Topics/271_hypersensitivity-pneumonitis.html",
+		"title": "Hypersensitivity Pneumonitis"
+		},
+	"281": {
+		"Target": "./HTML/Topics/272_hypersplenism.html",
+		"title": "Hypersplenism"
+		},
+	"282": {
+		"Target": "./HTML/Topics/273_hypertension_essential.html",
+		"title": "Hypertension, Essential"
+		},
+	"283": {
+		"Target": "./HTML/Topics/274_hypertension_secondary_and_resistant.html",
+		"title": "Hypertension, Secondary and Resistant"
+		},
+	"284": {
+		"Target": "./HTML/Topics/275_hyperthyroidism.html",
+		"title": "Hyperthyroidism"
+		},
+	"285": {
+		"Target": "./HTML/Topics/276_hypertriglyceridemia.html",
+		"title": "Hypertriglyceridemia"
+		},
+	"286": {
+		"Target": "./HTML/Topics/277_hypertrophic_cardiomyopathy.html",
+		"title": "Hypertrophic Cardiomyopathy"
+		},
+	"287": {
+		"Target": "./HTML/Topics/278_hypoglycemia_diabetic.html",
+		"title": "Hypoglycemia, Diabetic"
+		},
+	"288": {
+		"Target": "./HTML/Topics/279_hypoglycemia_nondiabetic.html",
+		"title": "Hypoglycemia, Nondiabetic"
+		},
+	"289": {
+		"Target": "./HTML/Topics/280_hypokalemia.html",
+		"title": "Hypokalemia"
+		},
+	"290": {
+		"Target": "./HTML/Topics/281_hyponatremia.html",
+		"title": "Hyponatremia"
+		},
+	"291": {
+		"Target": "./HTML/Topics/282_hypoparathyroidism.html",
+		"title": "Hypoparathyroidism"
+		},
+	"292": {
+		"Target": "./HTML/Topics/283_hypotension_orthostatic.html",
+		"title": "Hypotension, Orthostatic"
+		},
+	"293": {
+		"Target": "./HTML/Topics/284_hypothyroidism_adult.html",
+		"title": "Hypothyroidism, Adult"
+		},
+	"294": {
+		"Target": "./HTML/Topics/285_id_reaction.html",
+		"title": "ID Reaction"
+		},
+	"295": {
+		"Target": "./HTML/Topics/286_idiopathic_thrombocytopenic_purpura.html",
+		"title": "Idiopathic Thrombocytopenic Purpura"
+		},
+	"296": {
+		"Target": "./HTML/Topics/287_iga_nephropathy.html",
+		"title": "IgA Nephropathy"
+		},
+	"297": {
+		"Target": "./HTML/Topics/288_immunodeficiency_diseases.html",
+		"title": "Immunodeficiency Diseases"
+		},
+	"298": {
+		"Target": "./HTML/Topics/289_impetigo.html",
+		"title": "Impetigo"
+		},
+	"299": {
+		"Target": "./HTML/Topics/290_incontinence_fecal.html",
+		"title": "Incontinence, Fecal"
+		},
+	"300": {
+		"Target": "./HTML/Topics/291_incontinence_urinary-adult-female.html",
+		"title": "Incontinence, Urinary Adult Female"
+		},
+	"301": {
+		"Target": "./HTML/Topics/292_incontinence_urinary_adult_male.html",
+		"title": "Incontinence, Urinary Adult Male"
+		},
+	"302": {
+		"Target": "./HTML/Topics/293_infectious-mononucleosis-epstein-barr-virus_infections.html",
+		"title": "Infectious Mononucleosis, Epstein-Barr Virus Infections"
+		},
+	"303": {
+		"Target": "./HTML/Topics/294_infertility.html",
+		"title": "Infertility"
+		},
+	"304": {
+		"Target": "./HTML/Topics/295_influenza.html",
+		"title": "Influenza"
+		},
+	"305": {
+		"Target": "./HTML/Topics/296_ingrown_toenail.html",
+		"title": "Ingrown Toenail"
+		},
+	"306": {
+		"Target": "./HTML/Topics/297_injury_and_violence.html",
+		"title": "Injury and Violence"
+		},
+	"307": {
+		"Target": "./HTML/Topics/299_intellectual_disability.html",
+		"title": "Intellectual Disability (Intellectual Developmental Disorder)"
+		},
+	"308": {
+		"Target": "./HTML/Topics/300_interstitial_cystitis.html",
+		"title": "Interstitial Cystitis"
+		},
+	"309": {
+		"Target": "./HTML/Topics/301_interstitial_nephritis.html",
+		"title": "Interstitial Nephritis"
+		},
+	"310": {
+		"Target": "./HTML/Topics/302_intestinal_parasites.html",
+		"title": "Intestinal Parasites"
+		},
+	"311": {
+		"Target": "./HTML/Topics/303_ibs.html",
+		"title": "Irritable Bowel Syndrome"
+		},
+	"312": {
+		"Target": "./HTML/Topics/304_kawasaki_syndrome.html",
+		"title": "Kawasaki Syndrome"
+		},
+	"313": {
+		"Target": "./HTML/Topics/305_keloids.html",
+		"title": "Keloids"
+		},
+	"314": {
+		"Target": "./HTML/Topics/306_keratoacanthoma.html",
+		"title": "Keratoacanthoma"
+		},
+	"315": {
+		"Target": "./HTML/Topics/307_keratosis_actinic.html",
+		"title": "Keratosis, Actinic"
+		},
+	"316": {
+		"Target": "./HTML/Topics/308_keratosis_seborrheic.html",
+		"title": "Keratosis, Seborrheic"
+		},
+	"317": {
+		"Target": "./HTML/Topics/309_klinefelter_syndrome.html",
+		"title": "Klinefelter Syndrome"
+		},
+	"318": {
+		"Target": "./HTML/Topics/310_knee_pain.html",
+		"title": "Knee Pain"
+		},
+	"319": {
+		"Target": "./HTML/Topics/311_labyrinthitis.html",
+		"title": "Labyrinthitis"
+		},
+	"320": {
+		"Target": "./HTML/Topics/312_lacrimal_disorders.html",
+		"title": "Lacrimal Disorders (Dry Eye Syndrome)"
+		},
+	"321": {
+		"Target": "./HTML/Topics/313_lactose_intolerance.html",
+		"title": "Lactose Intolerance"
+		},
+	"322": {
+		"Target": "./HTML/Topics/314_laryngeal_cancer.html",
+		"title": "Laryngeal Cancer"
+		},
+	"323": {
+		"Target": "./HTML/Topics/315_laryngitis.html",
+		"title": "Laryngitis"
+		},
+	"324": {
+		"Target": "./HTML/Topics/316_laxative_abuse.html",
+		"title": "Laxative Abuse"
+		},
+	"325": {
+		"Target": "./HTML/Topics/317_legionnaires_disease.html",
+		"title": "Legionnaires&#x2019; Disease"
+		},
+	"326": {
+		"Target": "./HTML/Topics/318_leukemia_acute_lymphoblastic_in_adults.html",
+		"title": "Leukemia, Acute Lymphoblastic in Adults (ALL)"
+		},
+	"327": {
+		"Target": "./HTML/Topics/319_leukemia_acute_myeloid.html",
+		"title": "Leukemia, Acute Myeloid"
+		},
+	"328": {
+		"Target": "./HTML/Topics/320_leukemia_chronic_lymphocytic.html",
+		"title": "Leukemia, Chronic Lymphocytic"
+		},
+	"329": {
+		"Target": "./HTML/Topics/321_leukemia_chronic_myelogenous.html",
+		"title": "Leukemia, Chronic Myelogenous"
+		},
+	"330": {
+		"Target": "./HTML/Topics/322_leukoplakia_oral.html",
+		"title": "Leukoplakia, Oral"
+		},
+	"331": {
+		"Target": "./HTML/Topics/323_lichen_planus.html",
+		"title": "Lichen Planus"
+		},
+	"332": {
+		"Target": "./HTML/Topics/324_lichen_simplex_chronicus.html",
+		"title": "Lichen Simplex Chronicus"
+		},
+	"333": {
+		"Target": "./HTML/Topics/325_lipoma.html",
+		"title": "Lipoma"
+		},
+	"334": {
+		"Target": "./HTML/Topics/326_long_qt_interval.html",
+		"title": "Long QT Interval"
+		},
+	"335": {
+		"Target": "./HTML/Topics/327_lumbar_disc_disorders.html",
+		"title": "Lumbar (Intervertebral) Disc Disorders"
+		},
+	"336": {
+		"Target": "./HTML/Topics/328_lung_primary_malignancies.html",
+		"title": "Lung, Primary Malignancies"
+		},
+	"337": {
+		"Target": "./HTML/Topics/329_lupus_erythematosus_systematic.html",
+		"title": "Lupus Erythematosus, Systemic (SLE)"
+		},
+	"338": {
+		"Target": "./HTML/Topics/330_lupus_nephritis.html",
+		"title": "Lupus Nephritis"
+		},
+	"339": {
+		"Target": "./HTML/Topics/331_lyme_disease 2016.html",
+		"title": "Lyme Disease"
+		},
+	"340": {
+		"Target": "./HTML/Topics/332_lymphangitis.html",
+		"title": "Lymphangitis"
+		},
+	"341": {
+		"Target": "./HTML/Topics/333_lymphedema.html",
+		"title": "Lymphedema"
+		},
+	"342": {
+		"Target": "./HTML/Topics/334_lymphoma_burkitt.html",
+		"title": "Lymphoma, Burkitt"
+		},
+	"343": {
+		"Target": "./HTML/Topics/335_macular_degeneration_age-related.html",
+		"title": "Macular Degeneration, Age-Related"
+		},
+	"344": {
+		"Target": "./HTML/Topics/336_malaria.html",
+		"title": "Malaria"
+		},
+	"345": {
+		"Target": "./HTML/Topics/337_marfan_syndrome.html",
+		"title": "Marfan Syndrome"
+		},
+	"346": {
+		"Target": "./HTML/Topics/338_marijuana_use_disorder.html",
+		"title": "Marijuana (Cannabis) Use Disorder"
+		},
+	"347": {
+		"Target": "./HTML/Topics/339_mastalgia.html",
+		"title": "Mastalgia"
+		},
+	"348": {
+		"Target": "./HTML/Topics/340_mastitis.html",
+		"title": "Mastitis"
+		},
+	"349": {
+		"Target": "./HTML/Topics/341_mastoiditis.html",
+		"title": "Mastoiditis"
+		},
+	"350": {
+		"Target": "./HTML/Topics/342_measles_rubeola.html",
+		"title": "Measles (Rubeola)"
+		},
+	"351": {
+		"Target": "./HTML/Topics/343_measles_german.html",
+		"title": "Measles, German (Rubella)"
+		},
+	"352": {
+		"Target": "./HTML/Topics/344_medial_tibial_stress_syndrome.html",
+		"title": "Medial Tibial Stress Syndrome (MTSS)/Shin Splints"
+		},
+	"353": {
+		"Target": "./HTML/Topics/345_melanoma.html",
+		"title": "Melanoma"
+		},
+	"354": {
+		"Target": "./HTML/Topics/346_meniere-disease.html",
+		"title": "M&#x00E9;ni&#x00E8;re Disease"
+		},
+	"355": {
+		"Target": "./HTML/Topics/347_meningitis, bacterial.html",
+		"title": "Meningitis, Bacterial"
+		},
+	"356": {
+		"Target": "./HTML/Topics/348_meningitis_viral.html",
+		"title": "Meningitis, Viral"
+		},
+	"357": {
+		"Target": "./HTML/Topics/349_meningococcal_disease.html",
+		"title": "Meningococcal Disease"
+		},
+	"358": {
+		"Target": "./HTML/Topics/350_meniscal_injury.html",
+		"title": "Meniscal Injury"
+		},
+	"359": {
+		"Target": "./HTML/Topics/351_menopause.html",
+		"title": "Menopause"
+		},
+	"360": {
+		"Target": "./HTML/Topics/352_menorrhagia.html",
+		"title": "Menorrhagia"
+		},
+	"361": {
+		"Target": "./HTML/Topics/353_merkel_cell_carcinoma.html",
+		"title": "Merkel Cell Carcinoma"
+		},
+	"362": {
+		"Target": "./HTML/Topics/354_mesenteric_adenitis.html",
+		"title": "Mesenteric Adenitis"
+		},
+	"363": {
+		"Target": "./HTML/Topics/355_metabolic_syndrome.html",
+		"title": "Metabolic Syndrome"
+		},
+	"364": {
+		"Target": "./HTML/Topics/356_metatarsalgia.html",
+		"title": "Metatarsalgia"
+		},
+	"365": {
+		"Target": "./HTML/Topics/357_methicillin_resistant_s-aureus_skin_infections.html",
+		"title": "Methicillin Resistant S. Aureus (MRSA) Skin Infections"
+		},
+	"366": {
+		"Target": "./HTML/Topics/358_mild_cognitive_impairment.html",
+		"title": "Mild Cognitive Impairment"
+		},
+	"367": {
+		"Target": "./HTML/Topics/359_mitral_regurgitation.html",
+		"title": "Mitral Regurgitation"
+		},
+	"368": {
+		"Target": "./HTML/Topics/360_mitral_stenosis.html",
+		"title": "Mitral Stenosis"
+		},
+	"369": {
+		"Target": "./HTML/Topics/361_mitral_valve_prolapse.html",
+		"title": "Mitral Valve Prolapse"
+		},
+	"370": {
+		"Target": "./HTML/Topics/362_molluscum_contagiosum.html",
+		"title": "Molluscum Contagiosum"
+		},
+	"371": {
+		"Target": "./HTML/Topics/363_morton neuroma 5mincc_2016.html",
+		"title": "Morton Neuroma (Interdigital Neuroma)"
+		},
+	"372": {
+		"Target": "./HTML/Topics/364_motion_sickness.html",
+		"title": "Motion Sickness"
+		},
+	"373": {
+		"Target": "./HTML/Topics/365_multiple_myeloma.html",
+		"title": "Multiple Myeloma"
+		},
+	"374": {
+		"Target": "./HTML/Topics/366_multiple sclerosis.html",
+		"title": "Multiple Sclerosis"
+		},
+	"375": {
+		"Target": "./HTML/Topics/367_mumps.html",
+		"title": "Mumps"
+		},
+	"376": {
+		"Target": "./HTML/Topics/368_muscular_dystrophy.html",
+		"title": "Muscular Dystrophy"
+		},
+	"377": {
+		"Target": "./HTML/Topics/369_myasthenia_gravis.html",
+		"title": "Myasthenia Gravis"
+		},
+	"378": {
+		"Target": "./HTML/Topics/370_myelodysplastic_syndromes_2016.html",
+		"title": "Myelodysplastic syndromes"
+		},
+	"379": {
+		"Target": "./HTML/Topics/371_myeloproliferative_neoplasms.html",
+		"title": "Myeloproliferative Neoplasms"
+		},
+	"380": {
+		"Target": "./HTML/Topics/372_narcolepsy_2016.html",
+		"title": "Narcolepsy"
+		},
+	"381": {
+		"Target": "./HTML/Topics/373_nasal_polyps.html",
+		"title": "Nasal Polyps"
+		},
+	"382": {
+		"Target": "./HTML/Topics/374_nephrotic_syndrome.html",
+		"title": "Nephrotic Syndrome"
+		},
+	"383": {
+		"Target": "./HTML/Topics/375_neurofibromatosis_type_1.html",
+		"title": "Neurofibromatosis Type 1"
+		},
+	"384": {
+		"Target": "./HTML/Topics/376_neuroleptic_malignant_syndrome.html",
+		"title": "Neuroleptic Malignant Syndrome"
+		},
+	"385": {
+		"Target": "./HTML/Topics/377_neuropathic_pain.html",
+		"title": "Neuropathic Pain"
+		},
+	"386": {
+		"Target": "./HTML/Topics/378_neuropathy_peripheral.html",
+		"title": "Neuropathy, Peripheral"
+		},
+	"387": {
+		"Target": "./HTML/Topics/379_nicotine_addiction.html",
+		"title": "Nicotine Addiction"
+		},
+	"388": {
+		"Target": "./HTML/Topics/380_nonalcoholic_fatty_liver_syndrome.html",
+		"title": "Nonalcoholic Fatty Liver Disease (NAFLD)"
+		},
+	"389": {
+		"Target": "./HTML/Topics/381_nosocomial_infections.html",
+		"title": "Nosocomial Infections"
+		},
+	"390": {
+		"Target": "./HTML/Topics/382_novel_influenza_a.html",
+		"title": "Novel Influenza A (H1N1; H7N9; H5N1)"
+		},
+	"391": {
+		"Target": "./HTML/Topics/383_obesity.html",
+		"title": "Obesity"
+		},
+	"392": {
+		"Target": "./HTML/Topics/384_obsessive-compulsive_disorder.html",
+		"title": "Obsessive-Compulsive Disorder (OCD)"
+		},
+	"393": {
+		"Target": "./HTML/Topics/385_ocular_chemical_burns.html",
+		"title": "Ocular Chemical Burns"
+		},
+	"394": {
+		"Target": "./HTML/Topics/386_onychomycosis.html",
+		"title": "Onychomycosis"
+		},
+	"395": {
+		"Target": "./HTML/Topics/387_optic_neuritis.html",
+		"title": "Optic Neuritis"
+		},
+	"396": {
+		"Target": "./HTML/Topics/388_oral_rehydration.html",
+		"title": "Oral Rehydration"
+		},
+	"397": {
+		"Target": "./HTML/Topics/389_osgood-schlatter_disease.html",
+		"title": "Osgood-Schlatter Disease"
+		},
+	"398": {
+		"Target": "./HTML/Topics/390_osteoarthritis.html",
+		"title": "Osteoarthritis"
+		},
+	"399": {
+		"Target": "./HTML/Topics/391_osteochondritis_dissecans.html",
+		"title": "Osteochondritis Dissecans"
+		},
+	"400": {
+		"Target": "./HTML/Topics/392_osteomyelitis.html",
+		"title": "Osteomyelitis"
+		},
+	"401": {
+		"Target": "./HTML/Topics/393_osteoporosis.html",
+		"title": "Osteoporosis"
+		},
+	"402": {
+		"Target": "./HTML/Topics/394_otitis_externa.html",
+		"title": "Otitis Externa"
+		},
+	"403": {
+		"Target": "./HTML/Topics/395_otitis_media.html",
+		"title": "Otitis Media"
+		},
+	"404": {
+		"Target": "./HTML/Topics/396_otitis_media_with_effusion.html",
+		"title": "Otitis Media with Effusion"
+		},
+	"405": {
+		"Target": "./HTML/Topics/397_ovarian_cancer.html",
+		"title": "Ovarian Cancer"
+		},
+	"406": {
+		"Target": "./HTML/Topics/398_ovarian_cyst_ruptured.html",
+		"title": "Ovarian Cyst, Ruptured"
+		},
+	"407": {
+		"Target": "./HTML/Topics/399_ovarian_tumor_benign.html",
+		"title": "Ovarian Tumor, Benign"
+		},
+	"408": {
+		"Target": "./HTML/Topics/400_paget_disease_of_the_breast.html",
+		"title": "Paget Disease of the Breast"
+		},
+	"409": {
+		"Target": "./HTML/Topics/401_palliative_care.html",
+		"title": "Palliative Care"
+		},
+	"410": {
+		"Target": "./HTML/Topics/402_pancreatic_cancer.html",
+		"title": "Pancreatic Cancer"
+		},
+	"411": {
+		"Target": "./HTML/Topics/403_pancreatitis_acute.html",
+		"title": "Pancreatitis, Acute"
+		},
+	"412": {
+		"Target": "./HTML/Topics/404_pancreatitis_chronic.html",
+		"title": "Pancreatitis, Chronic"
+		},
+	"413": {
+		"Target": "./HTML/Topics/405_panic_disorder.html",
+		"title": "Panic Disorder"
+		},
+	"414": {
+		"Target": "./HTML/Topics/406_parkinson_disease.html",
+		"title": "Parkinson Disease"
+		},
+	"415": {
+		"Target": "./HTML/Topics/407_paronychia_2016.html",
+		"title": "Paronychia"
+		},
+	"416": {
+		"Target": "./HTML/Topics/408_parotitis_acute_and_chronic.html",
+		"title": "Parotitis, Acute and Chronic"
+		},
+	"417": {
+		"Target": "./HTML/Topics/409_parvovirus_b19_infection.html",
+		"title": "Parvovirus B19 Infection"
+		},
+	"418": {
+		"Target": "./HTML/Topics/410_patellofemoral_pain_syndrome.html",
+		"title": "Patellofemoral Pain Syndrome"
+		},
+	"419": {
+		"Target": "./HTML/Topics/411_pediculosis_lice.html",
+		"title": "Pediculosis (Lice)"
+		},
+	"420": {
+		"Target": "./HTML/Topics/412_pelvic_inflammatory_disease.html",
+		"title": "Pelvic Inflammatory Disease"
+		},
+	"421": {
+		"Target": "./HTML/Topics/413_pemphigoid_bullous.html",
+		"title": "Pemphigoid, Bullous"
+		},
+	"422": {
+		"Target": "./HTML/Topics/414_pemphigus_vulgaris.html",
+		"title": "Pemphigus Vulgaris"
+		},
+	"423": {
+		"Target": "./HTML/Topics/415_peptic ulcer disease.html",
+		"title": "Peptic Ulcer Disease"
+		},
+	"424": {
+		"Target": "./HTML/Topics/416_perforated_tympanic_membrane.html",
+		"title": "Perforated Tympanic Membrane"
+		},
+	"425": {
+		"Target": "./HTML/Topics/417_pericarditis_2016.html",
+		"title": "Pericarditis"
+		},
+	"426": {
+		"Target": "./HTML/Topics/418_periodic_limb_movement_disorder.html",
+		"title": "Periodic Limb Movement Disorder"
+		},
+	"427": {
+		"Target": "./HTML/Topics/419_perioral_dermatitis.html",
+		"title": "Perioral Dermatitis"
+		},
+	"428": {
+		"Target": "./HTML/Topics/420_peripheral_arterial_disease.html",
+		"title": "Peripheral Arterial Disease"
+		},
+	"429": {
+		"Target": "./HTML/Topics/421_peritonitis_Acute.html",
+		"title": "Peritonitis, Acute"
+		},
+	"430": {
+		"Target": "./HTML/Topics/422_personality_disorders.html",
+		"title": "Personality Disorders"
+		},
+	"431": {
+		"Target": "./HTML/Topics/423_pertussis.html",
+		"title": "Pertussis"
+		},
+	"432": {
+		"Target": "./HTML/Topics/424_pharyngitis_2016.html",
+		"title": "Pharyngitis"
+		},
+	"433": {
+		"Target": "./HTML/Topics/425_pheochromocytoma.html",
+		"title": "Pheochromocytoma"
+		},
+	"434": {
+		"Target": "./HTML/Topics/426_photodermatitis.html",
+		"title": "Photodermatitis"
+		},
+	"435": {
+		"Target": "./HTML/Topics/427_pilonidal_disease.html",
+		"title": "Pilonidal Disease"
+		},
+	"436": {
+		"Target": "./HTML/Topics/428_pinworms.html",
+		"title": "Pinworms"
+		},
+	"437": {
+		"Target": "./HTML/Topics/429_pituitary_adenoma.html",
+		"title": "Pituitary Adenoma"
+		},
+	"438": {
+		"Target": "./HTML/Topics/430_placenta_previa.html",
+		"title": "Placenta previa"
+		},
+	"439": {
+		"Target": "./HTML/Topics/431_plantar_fasciitis.html",
+		"title": "Plantar Fasciitis"
+		},
+	"440": {
+		"Target": "./HTML/Topics/432_pleural_effusion.html",
+		"title": "Pleural Effusion"
+		},
+	"441": {
+		"Target": "./HTML/Topics/433_pneumonia_bacterial.html",
+		"title": "Pneumonia, Bacterial"
+		},
+	"442": {
+		"Target": "./HTML/Topics/434_pneumonia_mycoplasma.html",
+		"title": "Pneumonia, Mycoplasma"
+		},
+	"443": {
+		"Target": "./HTML/Topics/435_pneumonia_pneumocystis_jiroveci.html",
+		"title": "Pneumonia, Pneumocystis Jiroveci"
+		},
+	"444": {
+		"Target": "./HTML/Topics/436_pneumonia_viral.html",
+		"title": "Pneumonia, Viral"
+		},
+	"445": {
+		"Target": "./HTML/Topics/437_polyarteritis_nodosa.html",
+		"title": "Polyarteritis Nodosa"
+		},
+	"446": {
+		"Target": "./HTML/Topics/438_polycystic_kidney_disease.html",
+		"title": "Polycystic Kidney Disease"
+		},
+	"447": {
+		"Target": "./HTML/Topics/439_polycystic_ovarian_syndrome_2016.html",
+		"title": "Polycystic Ovarian Syndrome (PCOS)"
+		},
+	"448": {
+		"Target": "./HTML/Topics/440_polycythemia_vera.html",
+		"title": "Polycythemia Vera"
+		},
+	"449": {
+		"Target": "./HTML/Topics/441_polymyalgia_rheumatica_2016.html",
+		"title": "Polymyalgia Rheumatica"
+		},
+	"450": {
+		"Target": "./HTML/Topics/442_polymyositis-dermatomyositis.html",
+		"title": "Polymyositis/Dermatomyositis"
+		},
+	"451": {
+		"Target": "./HTML/Topics/443_popliteal_cyst.html",
+		"title": "Popliteal (Baker) Cyst"
+		},
+	"452": {
+		"Target": "./HTML/Topics/444_portal_hypertension.html",
+		"title": "Portal Hypertension"
+		},
+	"453": {
+		"Target": "./HTML/Topics/445_postconcussion_syndrome.html",
+		"title": "Postconcussion Syndrome (Mild Traumatic Brain Injury)"
+		},
+	"454": {
+		"Target": "./HTML/Topics/446_posttraumatic_stress_disorder.html",
+		"title": "Posttraumatic Stress Disorder (PTSD)"
+		},
+	"455": {
+		"Target": "./HTML/Topics/447_preeclampsia_and_eclampsia_2016.html",
+		"title": "Preeclampsia and Eclampsia (Toxemia of Pregnancy)"
+		},
+	"456": {
+		"Target": "./HTML/Topics/448_premenstrual_syndrome_and_premenstrual_dysphoric_disorder.html",
+		"title": "Premenstrual Syndrome (PMS) and Premenstrual Dysphoric Disorder (PMDD)"
+		},
+	"457": {
+		"Target": "./HTML/Topics/449_prenatal care and testing.html",
+		"title": "Prenatal Care and Testing"
+		},
+	"458": {
+		"Target": "./HTML/Topics/450_preoperative_evaluation_of_the_noncardiac_surgical_patient.html",
+		"title": "Preoperative Evaluation of the Noncardiac Surgical Patient"
+		},
+	"459": {
+		"Target": "./HTML/Topics/451_presbycusis.html",
+		"title": "Presbycusis"
+		},
+	"460": {
+		"Target": "./HTML/Topics/452_pressure_ulcer.html",
+		"title": "Pressure Ulcer"
+		},
+	"461": {
+		"Target": "./HTML/Topics/453_preterm_labor.html",
+		"title": "Preterm Labor"
+		},
+	"462": {
+		"Target": "./HTML/Topics/454_priapism.html",
+		"title": "Priapism"
+		},
+	"463": {
+		"Target": "./HTML/Topics/455_prostate_cancer_v2.html",
+		"title": "Prostate Cancer"
+		},
+	"464": {
+		"Target": "./HTML/Topics/456_prostatic_hyperplasia,_benign_2016.html",
+		"title": "Prostatic Hyperplasia, Benign (BPH)"
+		},
+	"465": {
+		"Target": "./HTML/Topics/457_prostatitis.html",
+		"title": "Prostatitis"
+		},
+	"466": {
+		"Target": "./HTML/Topics/458_protein_c_deficiency.html",
+		"title": "Protein C Deficiency"
+		},
+	"467": {
+		"Target": "./HTML/Topics/459_protein_s_deficiency.html",
+		"title": "Protein S Deficiency"
+		},
+	"468": {
+		"Target": "./HTML/Topics/460_protein-energy_malnutrition.html",
+		"title": "Protein-Energy Malnutrition"
+		},
+	"469": {
+		"Target": "./HTML/Topics/461_proteinuria.html",
+		"title": "Proteinuria"
+		},
+	"470": {
+		"Target": "./HTML/Topics/462_prothrombin_20210.html",
+		"title": "Prothrombin 20210 (Mutation)"
+		},
+	"471": {
+		"Target": "./HTML/Topics/463_pruritus_ani.html",
+		"title": "Pruritus Ani"
+		},
+	"472": {
+		"Target": "./HTML/Topics/464_pruritus_vulvae.html",
+		"title": "Pruritus Vulvae"
+		},
+	"473": {
+		"Target": "./HTML/Topics/465_pseudofolliculitis_barbae.html",
+		"title": "Pseudofolliculitis Barbae"
+		},
+	"474": {
+		"Target": "./HTML/Topics/466_pseudogout.html",
+		"title": "Pseudogout (Calcium Pyrophosphate Dihydrate)"
+		},
+	"475": {
+		"Target": "./HTML/Topics/467_psoriasis.html",
+		"title": "Psoriasis"
+		},
+	"476": {
+		"Target": "./HTML/Topics/468_psychosis.html",
+		"title": "Psychosis"
+		},
+	"477": {
+		"Target": "./HTML/Topics/469_pulmonary_arterial_hypertension.html",
+		"title": "Pulmonary Arterial Hypertension"
+		},
+	"478": {
+		"Target": "./HTML/Topics/470_pulmonary_edema.html",
+		"title": "Pulmonary Edema"
+		},
+	"479": {
+		"Target": "./HTML/Topics/471_pulmonary_embolism_2016.html",
+		"title": "Pulmonary Embolism"
+		},
+	"480": {
+		"Target": "./HTML/Topics/472_pulmonary_fibrosis.html",
+		"title": "Pulmonary Fibrosis"
+		},
+	"481": {
+		"Target": "./HTML/Topics/473_pyelonephritis_2016.html",
+		"title": "Pyelonephritis"
+		},
+	"482": {
+		"Target": "./HTML/Topics/474_pyloric_stenosis.html",
+		"title": "Pyloric Stenosis"
+		},
+	"483": {
+		"Target": "./HTML/Topics/475_rabies.html",
+		"title": "Rabies"
+		},
+	"484": {
+		"Target": "./HTML/Topics/476_rape_crisis_syndrome.html",
+		"title": "Rape Crisis Syndrome"
+		},
+	"485": {
+		"Target": "./HTML/Topics/477_raynaud_phenomenon.html",
+		"title": "Raynaud Phenomenon"
+		},
+	"486": {
+		"Target": "./HTML/Topics/478_reactive arthritis.html",
+		"title": "Reactive Arthritis (Reiter Syndrome)"
+		},
+	"487": {
+		"Target": "./HTML/Topics/479_refractive_errors.html",
+		"title": "Refractive Errors"
+		},
+	"488": {
+		"Target": "./HTML/Topics/480_renal_cell_carcinoma.html",
+		"title": "Renal Cell Carcinoma"
+		},
+	"489": {
+		"Target": "./HTML/Topics/481_renal_tubular_acidosis.html",
+		"title": "Renal Tubular Acidosis"
+		},
+	"490": {
+		"Target": "./HTML/Topics/482_respiratory_distress_syndrome_acute.html",
+		"title": "Respiratory Distress Syndrome, Acute (ARDS)"
+		},
+	"491": {
+		"Target": "./HTML/Topics/483_respiratory_distress_syndrome_neonatal.html",
+		"title": "Respiratory Distress Syndrome, Neonatal"
+		},
+	"492": {
+		"Target": "./HTML/Topics/484_respiratory_syncytial_virus_infection.html",
+		"title": "Respiratory Syncytial Virus Infection"
+		},
+	"493": {
+		"Target": "./HTML/Topics/485_restless_legs_syndrome.html",
+		"title": "Restless Legs Syndrome"
+		},
+	"494": {
+		"Target": "./HTML/Topics/486_retinal_detachment.html",
+		"title": "Retinal Detachment"
+		},
+	"495": {
+		"Target": "./HTML/Topics/487_retinopathy_diabetic.html",
+		"title": "Retinopathy, Diabetic"
+		},
+	"496": {
+		"Target": "./HTML/Topics/488_rh_incompatibility.html",
+		"title": "RH Incompatibility"
+		},
+	"497": {
+		"Target": "./HTML/Topics/489_rhabdomyosarcoma.html",
+		"title": "Rhabdomyosarcoma"
+		},
+	"498": {
+		"Target": "./HTML/Topics/490_rheumatic_fever.html",
+		"title": "Rheumatic Fever"
+		},
+	"499": {
+		"Target": "./HTML/Topics/491_rhinitis,_allergic_2016.html",
+		"title": "Rhinitis, Allergic"
+		},
+	"500": {
+		"Target": "./HTML/Topics/492_rocky_mountain_spotted_fever.html",
+		"title": "Rocky Mountain Spotted Fever"
+		},
+	"501": {
+		"Target": "./HTML/Topics/493_roseola.html",
+		"title": "Roseola"
+		},
+	"502": {
+		"Target": "./HTML/Topics/494_rotator_cuff_impingement_syndrome.html",
+		"title": "Rotator Cuff Impingement Syndrome"
+		},
+	"503": {
+		"Target": "./HTML/Topics/495_salivary_gland_calculi_sialadenitis_2016.html",
+		"title": "Salivary Gland Calculi/Sialadenitis"
+		},
+	"504": {
+		"Target": "./HTML/Topics/496_salmonella_infection.html",
+		"title": "Salmonella Infection"
+		},
+	"505": {
+		"Target": "./HTML/Topics/497_sarcoidosis.html",
+		"title": "Sarcoidosis"
+		},
+	"506": {
+		"Target": "./HTML/Topics/498_scabies.html",
+		"title": "Scabies"
+		},
+	"507": {
+		"Target": "./HTML/Topics/499_scarlet_fever.html",
+		"title": "Scarlet Fever"
+		},
+	"508": {
+		"Target": "./HTML/Topics/500_schizophrenia.html",
+		"title": "Schizophrenia"
+		},
+	"509": {
+		"Target": "./HTML/Topics/501_sciwora_syndrome.html",
+		"title": "Sciwora Syndrome (Spinal Cord Injury Without Radiologic Abnormality)"
+		},
+	"510": {
+		"Target": "./HTML/Topics/502_scleritis.html",
+		"title": "Scleritis"
+		},
+	"511": {
+		"Target": "./HTML/Topics/503_scleroderma.html",
+		"title": "Scleroderma"
+		},
+	"512": {
+		"Target": "./HTML/Topics/504_seasonal_affective_disorder.html",
+		"title": "Seasonal Affective Disorder"
+		},
+	"513": {
+		"Target": "./HTML/Topics/505_secretion_of_inappropriate_antidiuretic_hormone.html",
+		"title": "Secretion of Inappropriate Antidiuretic Hormone (SIADH)"
+		},
+	"514": {
+		"Target": "./HTML/Topics/506_seizure_disorder_absence.html",
+		"title": "Seizure Disorder, Absence"
+		},
+	"515": {
+		"Target": "./HTML/Topics/507_seizure_disorder_partial.html",
+		"title": "Seizure Disorder, Partial"
+		},
+	"516": {
+		"Target": "./HTML/Topics/508_seizure_disorders.html",
+		"title": "Seizure Disorders"
+		},
+	"517": {
+		"Target": "./HTML/Topics/509_seizures_febrile.html",
+		"title": "Seizures, Febrile"
+		},
+	"518": {
+		"Target": "./HTML/Topics/510_sepsis.html",
+		"title": "Sepsis"
+		},
+	"519": {
+		"Target": "./HTML/Topics/511_serotonin_syndrome.html",
+		"title": "Serotonin Syndrome"
+		},
+	"520": {
+		"Target": "./HTML/Topics/512_sexual_dysfunction_in_women.html",
+		"title": "Sexual Dysfunction in Women"
+		},
+	"521": {
+		"Target": "./HTML/Topics/513_shoulder_pain.html",
+		"title": "Shoulder Pain"
+		},
+	"522": {
+		"Target": "./HTML/Topics/514_sinusitis.html",
+		"title": "Sinusitis"
+		},
+	"523": {
+		"Target": "./HTML/Topics/515_sjogren_syndrome.html",
+		"title": "Sj&#x00F6;gren Syndrome"
+		},
+	"524": {
+		"Target": "./HTML/Topics/516_sleep_apnea_obstructive.html",
+		"title": "Sleep Apnea, Obstructive"
+		},
+	"525": {
+		"Target": "./HTML/Topics/517_sleep_disorder_shift_work.html",
+		"title": "Sleep Disorder, Shift Work"
+		},
+	"526": {
+		"Target": "./HTML/Topics/518_smell_and_taste_disorders.html",
+		"title": "Smell and Taste Disorders"
+		},
+	"527": {
+		"Target": "./HTML/Topics/519_somatic_symptom_disorder.html",
+		"title": "Somatic Symptom (Somatization) Disorder"
+		},
+	"528": {
+		"Target": "./HTML/Topics/520_spinal_stenosis_2016_v2.html",
+		"title": "Spinal Stenosis"
+		},
+	"529": {
+		"Target": "./HTML/Topics/521_sprain_ankle.html",
+		"title": "Sprain, Ankle"
+		},
+	"530": {
+		"Target": "./HTML/Topics/522_sprains_and_strains.html",
+		"title": "Sprains and Strains"
+		},
+	"531": {
+		"Target": "./HTML/Topics/523_squamous_cell_carcinoma_cutaneous.html",
+		"title": "Squamous Cell Carcinoma, Cutaneous"
+		},
+	"532": {
+		"Target": "./HTML/Topics/524_steatohepatitis_nonalcoholic_2016.html",
+		"title": "Steatohepatitis, Nonalcoholic"
+		},
+	"533": {
+		"Target": "./HTML/Topics/525_stress_fracture.html",
+		"title": "Stress Fracture"
+		},
+	"534": {
+		"Target": "./HTML/Topics/526_stroke rehabilitation.html",
+		"title": "Stroke Rehabilitation"
+		},
+	"535": {
+		"Target": "./HTML/Topics/527_stroke_acute.html",
+		"title": "Stroke, Acute"
+		},
+	"536": {
+		"Target": "./HTML/Topics/528_subconjunctival_hemorrhage.html",
+		"title": "Subconjunctival Hemorrhage"
+		},
+	"537": {
+		"Target": "./HTML/Topics/529_substance_use_disorders.html",
+		"title": "Substance Use Disorders"
+		},
+	"538": {
+		"Target": "./HTML/Topics/530_sudden_infant_death_syndrome.html",
+		"title": "Sudden Infant Death Syndrome"
+		},
+	"539": {
+		"Target": "./HTML/Topics/531_suicide.html",
+		"title": "Suicide"
+		},
+	"540": {
+		"Target": "./HTML/Topics/532_superficial_thrombophlebitis.html",
+		"title": "Superficial Thrombophlebitis"
+		},
+	"541": {
+		"Target": "./HTML/Topics/533_surgical_complications.html",
+		"title": "Surgical Complications"
+		},
+	"542": {
+		"Target": "./HTML/Topics/534_syncope.html",
+		"title": "Syncope"
+		},
+	"543": {
+		"Target": "./HTML/Topics/535_syncope_reflex.html",
+		"title": "Syncope, Reflex (Vasovagal Syncope)"
+		},
+	"544": {
+		"Target": "./HTML/Topics/536_syphilis.html",
+		"title": "Syphilis"
+		},
+	"545": {
+		"Target": "./HTML/Topics/537_tarsal_tunnel_syndrome.html",
+		"title": "Tarsal Tunnel Syndrome"
+		},
+	"546": {
+		"Target": "./HTML/Topics/538_teething.html",
+		"title": "Teething"
+		},
+	"547": {
+		"Target": "./HTML/Topics/539_telogen_effluvium.html",
+		"title": "Telogen Effluvium"
+		},
+	"548": {
+		"Target": "./HTML/Topics/540_temporomandibular_joint_disorder.html",
+		"title": "Temporomandibular Joint Disorder (TMD)"
+		},
+	"549": {
+		"Target": "./HTML/Topics/541_testicular_malignancies_2016.html",
+		"title": "Testicular Malignancies"
+		},
+	"550": {
+		"Target": "./HTML/Topics/542_testicular_torsion.html",
+		"title": "Testicular Torsion"
+		},
+	"551": {
+		"Target": "./HTML/Topics/543_testosterone_deficiency.html",
+		"title": "Testosterone Deficiency"
+		},
+	"552": {
+		"Target": "./HTML/Topics/544_thalassemia.html",
+		"title": "Thalassemia"
+		},
+	"553": {
+		"Target": "./HTML/Topics/545_thoracic_outlet_syndrome.html",
+		"title": "Thoracic Outlet Syndrome"
+		},
+	"554": {
+		"Target": "./HTML/Topics/546_thrombophilia_and_hypercoagulable_states_2016.html",
+		"title": "Thrombophilia and Hypercoagulable States"
+		},
+	"555": {
+		"Target": "./HTML/Topics/547_thrombotic_thrombocytopenic_purpura.html",
+		"title": "Thrombotic Thrombocytopenic Purpura"
+		},
+	"556": {
+		"Target": "./HTML/Topics/548_thyroid_malignant_neoplasia.html",
+		"title": "Thyroid Malignant Neoplasia"
+		},
+	"557": {
+		"Target": "./HTML/Topics/549_thyroiditis.html",
+		"title": "Thyroiditis"
+		},
+	"558": {
+		"Target": "./HTML/Topics/550_tinea.html",
+		"title": "Tinea (Capitis, Corporis, Cruris)"
+		},
+	"559": {
+		"Target": "./HTML/Topics/551_tinea_pedis.html",
+		"title": "Tinea Pedis"
+		},
+	"560": {
+		"Target": "./HTML/Topics/552_tinea_versicolor.html",
+		"title": "Tinea Versicolor"
+		},
+	"561": {
+		"Target": "./HTML/Topics/553_tinnitus.html",
+		"title": "Tinnitus"
+		},
+	"562": {
+		"Target": "./HTML/Topics/554_tobacco_use_and_smoking_cessation 2016.html",
+		"title": "Tobacco Use and Smoking Cessation"
+		},
+	"563": {
+		"Target": "./HTML/Topics/555_torch_infections.html",
+		"title": "Torch Infections"
+		},
+	"564": {
+		"Target": "./HTML/Topics/556_torticollis.html",
+		"title": "Torticollis"
+		},
+	"565": {
+		"Target": "./HTML/Topics/557_tourette_syndrome.html",
+		"title": "Tourette Syndrome"
+		},
+	"566": {
+		"Target": "./HTML/Topics/558_toxic_epidermal_necrolysis.html",
+		"title": "Toxic Epidermal Necroylysis"
+		},
+	"567": {
+		"Target": "./HTML/Topics/559_toxoplasmosis.html",
+		"title": "Toxoplasmosis"
+		},
+	"568": {
+		"Target": "./HTML/Topics/560_tracheitis_bacterial_2016.html",
+		"title": "Tracheitis, Bacterial"
+		},
+	"569": {
+		"Target": "./HTML/Topics/561_transient_ischemic_attack.html",
+		"title": "Transient Ischemic Attack (TIA)"
+		},
+	"570": {
+		"Target": "./HTML/Topics/562_transient_stress_cardiomyopathy.html",
+		"title": "Transient Stress Cardiomyopathy"
+		},
+	"571": {
+		"Target": "./HTML/Topics/563_trichomoniasis.html",
+		"title": "Trichomoniasis"
+		},
+	"572": {
+		"Target": "./HTML/Topics/564_trichotillomania.html",
+		"title": "Trichotillomania"
+		},
+	"573": {
+		"Target": "./HTML/Topics/565_trigeminalneuralgia.html",
+		"title": "Trigeminal Neuralgia"
+		},
+	"574": {
+		"Target": "./HTML/Topics/566_trigger_finger.html",
+		"title": "Trigger Finger (Digital Stenosing Tenosynovitis)"
+		},
+	"575": {
+		"Target": "./HTML/Topics/567_trochanteric_bursitis.html",
+		"title": "Trochanteric Bursitis (Greater Trochanteric Pain Syndrome)"
+		},
+	"576": {
+		"Target": "./HTML/Topics/568_tuberculosis.html",
+		"title": "Tuberculosis"
+		},
+	"577": {
+		"Target": "./HTML/Topics/569_tuberculosis_latent.html",
+		"title": "Tuberculosis, Latent (LTBI)"
+		},
+	"578": {
+		"Target": "./HTML/Topics/570_typhoid_fever_2016.html",
+		"title": "Typhoid Fever"
+		},
+	"579": {
+		"Target": "./HTML/Topics/571_typhus_fevers_2016_v2.html",
+		"title": "Typhus Fevers"
+		},
+	"580": {
+		"Target": "./HTML/Topics/572_ulcer_aphthous.html",
+		"title": "Ulcer, Aphthous"
+		},
+	"581": {
+		"Target": "./HTML/Topics/573_ulcerative_colitis.html",
+		"title": "Ulcerative Colitis"
+		},
+	"582": {
+		"Target": "./HTML/Topics/574_upper_repiratory_infection_2016.html",
+		"title": "Upper Respiratory Infection (URI)"
+		},
+	"583": {
+		"Target": "./HTML/Topics/575_urethritis.html",
+		"title": "Urethritis"
+		},
+	"584": {
+		"Target": "./HTML/Topics/576_urinary_tract_infection_in_females.html",
+		"title": "Urinary Tract Infection (UTI) in Females"
+		},
+	"585": {
+		"Target": "./HTML/Topics/577_urinary_tract_infection_in_males.html",
+		"title": "Urinary Tract Infection (UTI) in Males"
+		},
+	"586": {
+		"Target": "./HTML/Topics/578_urolithiasis.html",
+		"title": "Urolithiasis"
+		},
+	"587": {
+		"Target": "./HTML/Topics/579_urticaria.html",
+		"title": "Urticaria"
+		},
+	"588": {
+		"Target": "./HTML/Topics/580_uterine-and-pelvic-organ-prolapse.html",
+		"title": "Uterine and Pelvic Organ Prolapse"
+		},
+	"589": {
+		"Target": "./HTML/Topics/581_uterine_myomas.html",
+		"title": "Uterine Myomas"
+		},
+	"590": {
+		"Target": "./HTML/Topics/582_uveitis.html",
+		"title": "Uveitis"
+		},
+	"591": {
+		"Target": "./HTML/Topics/583_vaginal_adenosis.html",
+		"title": "Vaginal Adenosis"
+		},
+	"592": {
+		"Target": "./HTML/Topics/584_vaginal_bleeding_during_pregnancy.html",
+		"title": "Vaginal Bleeding During Pregnancy"
+		},
+	"593": {
+		"Target": "./HTML/Topics/585_vaginal_malignancy.html",
+		"title": "Vaginal Malignancy"
+		},
+	"594": {
+		"Target": "./HTML/Topics/586_vaginitis_and_vaginosis.html",
+		"title": "Vaginitis and Vaginosis"
+		},
+	"595": {
+		"Target": "./HTML/Topics/587_varicose_veins.html",
+		"title": "Varicose Veins"
+		},
+	"596": {
+		"Target": "./HTML/Topics/588_vasculitis.html",
+		"title": "Vasculitis"
+		},
+	"597": {
+		"Target": "./HTML/Topics/589_venous_insufficiency_ulcers.html",
+		"title": "Venous Insufficiency Ulcers"
+		},
+	"598": {
+		"Target": "./HTML/Topics/590_ventricular_septal_defect_2016.html",
+		"title": "Ventricular Septal Defect"
+		},
+	"599": {
+		"Target": "./HTML/Topics/591_vertigo.html",
+		"title": "Vertigo"
+		},
+	"600": {
+		"Target": "./HTML/Topics/592_vertigo_benign_paroxysmal_positional.html",
+		"title": "Vertigo, Benign Paroxysmal Positional (BPPV)"
+		},
+	"601": {
+		"Target": "./HTML/Topics/593_vincent_stomatitis.html",
+		"title": "Vincent Stomatitis"
+		},
+	"602": {
+		"Target": "./HTML/Topics/594_vitamin b12 deficiency.html",
+		"title": "Vitamin B12 Deficiency"
+		},
+	"603": {
+		"Target": "./HTML/Topics/595_vitamin_d_deficiency.html",
+		"title": "Vitamin D Deficiency"
+		},
+	"604": {
+		"Target": "./HTML/Topics/596_vitamin_deficiency.html",
+		"title": "Vitamin Deficiency"
+		},
+	"605": {
+		"Target": "./HTML/Topics/597_vitiligo_2016.html",
+		"title": "Vitiligo"
+		},
+	"606": {
+		"Target": "./HTML/Topics/598_vocal_cord_dysfunction_2016.html",
+		"title": "Vocal Cord Dysfunction"
+		},
+	"607": {
+		"Target": "./HTML/Topics/599_von_willebrand_disease.html",
+		"title": "Von Willebrand Disease"
+		},
+	"608": {
+		"Target": "./HTML/Topics/600_vulvar_malignancy.html",
+		"title": "Vulvar Malignancy"
+		},
+	"609": {
+		"Target": "./HTML/Topics/601_vulvodynia.html",
+		"title": "Vulvodynia"
+		},
+	"610": {
+		"Target": "./HTML/Topics/602_vulvovaginitis_estrogen_deficient_2016.html",
+		"title": "Vulvovaginitis, Estrogen Deficient"
+		},
+	"611": {
+		"Target": "./HTML/Topics/603_vulvovaginitis_prepubescent.html",
+		"title": "Vulvovaginitis, Prepubescent"
+		},
+	"612": {
+		"Target": "./HTML/Topics/604_warts.html",
+		"title": "Warts"
+		},
+	"613": {
+		"Target": "./HTML/Topics/605_wilms_tumor.html",
+		"title": "Wilms Tumor"
+		},
+	"614": {
+		"Target": "./HTML/Topics/606_zollinger-ellison_syndrome.html",
+		"title": "Zollinger-Ellison Syndrome"
+		},
+	"615": {
+		"Target": "./HTML/Algorithms/algo.html",
+		"title": "Diagnosis and Treatment: An Algorithmic ApproachAbdominal Pain, ChronicAbdominal Pain, LowerAbdominal Pain, UpperAcetaminophen Poisoning, TreatmentAcid Phosphatase ElevationAcidosisAcneAlcohol Withdrawal, TreatmentAlkaline Phosphatase ElevationAmenorrhea, SecondaryAnemiaAnxietyAST ElevationAsthma Exacerbation, Pediatric AcuteAsthma, Initial TreatmentAsthma, MaintenanceAtaxiaBreast PainCardiac ArrhythmiasCervical Hyperextension InjuryChest Pain/Acute Coronary SyndromeChild AbuseChronic Joint Pain and StiffnessChronic Obstructive Pulmonary Disease (COPD), Diagnosis and TreatmentConcussion, Sideline EvaluationCongestive Heart Failure: Differential DiagnosisConstipation, Diagnosis and Treatment (Adult)Constipation, Treatment (Pediatric)ContraceptionCough, ChronicDeep Venous Thrombosis, Diagnosis and TreatmentDehydration, PediatricDeliriumDementiaDepressive Episode, MajorDiabetic Ketoacidosis (DKA), TreatmentDiarrhea, ChronicDischarge, VaginalDizzinessDyspepsiaDysphagiaDyspneaErythrocytosisFatigueFever in the First 3 Months of LifeFever of Unkown OriginGastroesophageal Reflux Disease, Diagnosis and TreatmentGenital UlcersGoiterHead Injury, Diagnosis and ManagementHeadache, ChronicHeart MurmurHeel PainHematemesis (Bleeding, Upper Gastrointestinal)HematuriaHepatomegalyHyperbilirubinemia and CirrhosisHypercalcemiaHyperkalemiaHyperlipidemiaHypernatremiaHypoalbuminemiaHypocalcemiaHypoglycemiaHypokalemiaHyponatremiaHypotensionHypothermiaInfertilityIntellectual DisabilityKnee PainLactate Dehydrogenase ElevationLead Toxicity, Diagnosis and Treatment (Adult)Low Back Pain, ChronicLymphadenopathyLymphopeniaMenopause, Evaluation and ManagementMetabolic Syndrome, TreatmentMigraine, TreatmentNail AbnormalitiesNeutropeniaNevus, AbnormalOpioid DependencePain, ChronicPain, Chronic, TreatmentPalpable Breast Mass (Age &#x003C;30 Years or Pregnant or Lactating)Palpable Breast Mass (Age &#x003C;30 Years)PalpitationsPap, Normal and Abnormal in Nonpregnant Women Ages 25 Years and OlderPap, Normal and Abnormal in Women Ages 21&#x2013;24 YearsParkinson Disease, TreatmentPediatric Exanthems, DiagnosticPelvic PainPoison Exposure and TreatmentPrecocious PubertyPreoperative Evaluation of Noncardiac Surgical PatientProteinuriaPulmonary Embolism, DiagnosisPulmonary Embolism, TreatmentRash, FocalRectal Bleeding and HematocheziaRecurrent Pregnancy LossRed EyeSalicylate Poisoning, Acute, TreatmentSeizure, New OnsetShoulder Pain, DiagnosisShoulder Pain, TreatmentSickle Cell Anemia, Acute, Evaluation and ManagementSuicide, Evaluating Risk ForSyncopeThrombocytopeniaThyroid NoduleTransient Ischemic Attacks and Transient Neurologic DefectsTremorType 2 Diabetes, TreatmentUremiaVaginal Bleeding During PregnancyVaginal Bleeding, AbnormalVitamin D DeficiencyWeight Loss, Unintentiona l"
+		},
+	"616": {
+		"Target": "./HTML/Algorithms/algo_unfig001.html",
+		"title": "Abdominal Pain, Chronic"
+		},
+	"617": {
+		"Target": "./HTML/Algorithms/algo_unfig002.html",
+		"title": "Abdominal Pain, Lower"
+		},
+	"618": {
+		"Target": "./HTML/Algorithms/algo_unfig003.html",
+		"title": "Abdominal Pain, Upper"
+		},
+	"619": {
+		"Target": "./HTML/Algorithms/algo_unfig004.html",
+		"title": "Acetaminophen Poisoning, Treatment"
+		},
+	"620": {
+		"Target": "./HTML/Algorithms/algo_unfig005.html",
+		"title": "Acid Phosphatase Elevation"
+		},
+	"621": {
+		"Target": "./HTML/Algorithms/algo_unfig006.html",
+		"title": "Acidosis"
+		},
+	"622": {
+		"Target": "./HTML/Algorithms/algo_unfig007.html",
+		"title": "Acne"
+		},
+	"623": {
+		"Target": "./HTML/Algorithms/algo_unfig008.html",
+		"title": "Alcohol Withdrawal, Treatment"
+		},
+	"624": {
+		"Target": "./HTML/Algorithms/algo_unfig009.html",
+		"title": "Alkaline Phosphatase Elevation"
+		},
+	"625": {
+		"Target": "./HTML/Algorithms/algo_unfig010.html",
+		"title": "Amenorrhea, Secondary"
+		},
+	"626": {
+		"Target": "./HTML/Algorithms/algo_unfig011.html",
+		"title": "Anemia"
+		},
+	"627": {
+		"Target": "./HTML/Algorithms/algo_unfig012.html",
+		"title": "Anxiety"
+		},
+	"628": {
+		"Target": "./HTML/Algorithms/algo_unfig013.html",
+		"title": "AST Elevation"
+		},
+	"629": {
+		"Target": "./HTML/Algorithms/algo_unfig014.html",
+		"title": "Asthma Exacerbation, Pediatric Acute"
+		},
+	"630": {
+		"Target": "./HTML/Algorithms/algo_unfig015.html",
+		"title": "Asthma, Initial Treatment"
+		},
+	"631": {
+		"Target": "./HTML/Algorithms/algo_unfig016.html",
+		"title": "Asthma, Maintenance"
+		},
+	"632": {
+		"Target": "./HTML/Algorithms/algo_unfig017.html",
+		"title": "Ataxia"
+		},
+	"633": {
+		"Target": "./HTML/Algorithms/algo_unfig018.html",
+		"title": "Breast Pain"
+		},
+	"634": {
+		"Target": "./HTML/Algorithms/algo_unfig019.html",
+		"title": "Cardiac Arrhythmias"
+		},
+	"635": {
+		"Target": "./HTML/Algorithms/algo_unfig020.html",
+		"title": "Cervical Hyperextension Injury"
+		},
+	"636": {
+		"Target": "./HTML/Algorithms/algo_unfig021.html",
+		"title": "Chest Pain/Acute Coronary Syndrome"
+		},
+	"637": {
+		"Target": "./HTML/Algorithms/algo_unfig022.html",
+		"title": "Child Abuse"
+		},
+	"638": {
+		"Target": "./HTML/Algorithms/algo_unfig023.html",
+		"title": "Chronic Joint Pain and Stiffness"
+		},
+	"639": {
+		"Target": "./HTML/Algorithms/algo_unfig024.html",
+		"title": "Chronic Obstructive Pulmonary Disease (COPD), Diagnosis and Treatment"
+		},
+	"640": {
+		"Target": "./HTML/Algorithms/algo_unfig025.html",
+		"title": "Concussion, Sideline Evaluation"
+		},
+	"641": {
+		"Target": "./HTML/Algorithms/algo_unfig026.html",
+		"title": "Congestive Heart Failure: Differential Diagnosis"
+		},
+	"642": {
+		"Target": "./HTML/Algorithms/algo_unfig027.html",
+		"title": "Constipation, Diagnosis and Treatment (Adult)"
+		},
+	"643": {
+		"Target": "./HTML/Algorithms/algo_unfig028.html",
+		"title": "Constipation, Treatment (Pediatric)"
+		},
+	"644": {
+		"Target": "./HTML/Algorithms/algo_unfig029.html",
+		"title": "Contraception"
+		},
+	"645": {
+		"Target": "./HTML/Algorithms/algo_unfig030.html",
+		"title": "Cough, Chronic"
+		},
+	"646": {
+		"Target": "./HTML/Algorithms/algo_unfig031.html",
+		"title": "Deep Venous Thrombosis, Diagnosis and Treatment"
+		},
+	"647": {
+		"Target": "./HTML/Algorithms/algo_unfig032.html",
+		"title": "Dehydration, Pediatric"
+		},
+	"648": {
+		"Target": "./HTML/Algorithms/algo_unfig033.html",
+		"title": "Delirium"
+		},
+	"649": {
+		"Target": "./HTML/Algorithms/algo_unfig034.html",
+		"title": "Dementia"
+		},
+	"650": {
+		"Target": "./HTML/Algorithms/algo_unfig035.html",
+		"title": "Depressive Episode, Major"
+		},
+	"651": {
+		"Target": "./HTML/Algorithms/algo_unfig036.html",
+		"title": "Diabetic Ketoacidosis (DKA), Treatment"
+		},
+	"652": {
+		"Target": "./HTML/Algorithms/algo_unfig037.html",
+		"title": "Diarrhea, Chronic"
+		},
+	"653": {
+		"Target": "./HTML/Algorithms/algo_unfig038.html",
+		"title": "Discharge, Vaginal"
+		},
+	"654": {
+		"Target": "./HTML/Algorithms/algo_unfig039.html",
+		"title": "Dizziness"
+		},
+	"655": {
+		"Target": "./HTML/Algorithms/algo_unfig040.html",
+		"title": "Dyspepsia"
+		},
+	"656": {
+		"Target": "./HTML/Algorithms/algo_unfig041.html",
+		"title": "Dysphagia"
+		},
+	"657": {
+		"Target": "./HTML/Algorithms/algo_unfig042.html",
+		"title": "Dyspnea"
+		},
+	"658": {
+		"Target": "./HTML/Algorithms/algo_unfig043.html",
+		"title": "Erythrocytosis"
+		},
+	"659": {
+		"Target": "./HTML/Algorithms/algo_unfig044.html",
+		"title": "Fatigue"
+		},
+	"660": {
+		"Target": "./HTML/Algorithms/algo_unfig045.html",
+		"title": "Fever in the First 3 Months of Life"
+		},
+	"661": {
+		"Target": "./HTML/Algorithms/algo_unfig046.html",
+		"title": "Fever of Unkown Origin"
+		},
+	"662": {
+		"Target": "./HTML/Algorithms/algo_unfig047.html",
+		"title": "Gastroesophageal Reflux Disease, Diagnosis and Treatment"
+		},
+	"663": {
+		"Target": "./HTML/Algorithms/algo_unfig048.html",
+		"title": "Genital Ulcers"
+		},
+	"664": {
+		"Target": "./HTML/Algorithms/algo_unfig049.html",
+		"title": "Goiter"
+		},
+	"665": {
+		"Target": "./HTML/Algorithms/algo_unfig050.html",
+		"title": "Head Injury, Diagnosis and Management"
+		},
+	"666": {
+		"Target": "./HTML/Algorithms/algo_unfig051.html",
+		"title": "Headache, Chronic"
+		},
+	"667": {
+		"Target": "./HTML/Algorithms/algo_unfig052.html",
+		"title": "Heart Murmur"
+		},
+	"668": {
+		"Target": "./HTML/Algorithms/algo_unfig053.html",
+		"title": "Heel Pain"
+		},
+	"669": {
+		"Target": "./HTML/Algorithms/algo_unfig054.html",
+		"title": "Hematemesis (Bleeding, Upper Gastrointestinal)"
+		},
+	"670": {
+		"Target": "./HTML/Algorithms/algo_unfig055.html",
+		"title": "Hematuria"
+		},
+	"671": {
+		"Target": "./HTML/Algorithms/algo_unfig056.html",
+		"title": "Hepatomegaly"
+		},
+	"672": {
+		"Target": "./HTML/Algorithms/algo_unfig057.html",
+		"title": "Hyperbilirubinemia and Cirrhosis"
+		},
+	"673": {
+		"Target": "./HTML/Algorithms/algo_unfig058.html",
+		"title": "Hypercalcemia"
+		},
+	"674": {
+		"Target": "./HTML/Algorithms/algo_unfig059.html",
+		"title": "Hyperkalemia"
+		},
+	"675": {
+		"Target": "./HTML/Algorithms/algo_unfig060.html",
+		"title": "Hyperlipidemia"
+		},
+	"676": {
+		"Target": "./HTML/Algorithms/algo_unfig061.html",
+		"title": "Hypernatremia"
+		},
+	"677": {
+		"Target": "./HTML/Algorithms/algo_unfig062.html",
+		"title": "Hypoalbuminemia"
+		},
+	"678": {
+		"Target": "./HTML/Algorithms/algo_unfig063.html",
+		"title": "Hypocalcemia"
+		},
+	"679": {
+		"Target": "./HTML/Algorithms/algo_unfig064.html",
+		"title": "Hypoglycemia"
+		},
+	"680": {
+		"Target": "./HTML/Algorithms/algo_unfig065.html",
+		"title": "Hypokalemia"
+		},
+	"681": {
+		"Target": "./HTML/Algorithms/algo_unfig066.html",
+		"title": "Hyponatremia"
+		},
+	"682": {
+		"Target": "./HTML/Algorithms/algo_unfig067.html",
+		"title": "Hypotension"
+		},
+	"683": {
+		"Target": "./HTML/Algorithms/algo_unfig068.html",
+		"title": "Hypothermia"
+		},
+	"684": {
+		"Target": "./HTML/Algorithms/algo_unfig069.html",
+		"title": "Infertility"
+		},
+	"685": {
+		"Target": "./HTML/Algorithms/algo_unfig070.html",
+		"title": "Intellectual Disability"
+		},
+	"686": {
+		"Target": "./HTML/Algorithms/algo_unfig071.html",
+		"title": "Knee Pain"
+		},
+	"687": {
+		"Target": "./HTML/Algorithms/algo_unfig072.html",
+		"title": "Lactate Dehydrogenase Elevation"
+		},
+	"688": {
+		"Target": "./HTML/Algorithms/algo_unfig073.html",
+		"title": "Lead Toxicity, Diagnosis and Treatment (Adult)"
+		},
+	"689": {
+		"Target": "./HTML/Algorithms/algo_unfig074.html",
+		"title": "Low Back Pain, Chronic"
+		},
+	"690": {
+		"Target": "./HTML/Algorithms/algo_unfig075.html",
+		"title": "Lymphadenopathy"
+		},
+	"691": {
+		"Target": "./HTML/Algorithms/algo_unfig076.html",
+		"title": "Lymphopenia"
+		},
+	"692": {
+		"Target": "./HTML/Algorithms/algo_unfig077.html",
+		"title": "Menopause, Evaluation and Management"
+		},
+	"693": {
+		"Target": "./HTML/Algorithms/algo_unfig078.html",
+		"title": "Metabolic Syndrome, Treatment"
+		},
+	"694": {
+		"Target": "./HTML/Algorithms/algo_unfig079.html",
+		"title": "Migraine, Treatment"
+		},
+	"695": {
+		"Target": "./HTML/Algorithms/algo_unfig080.html",
+		"title": "Nail Abnormalities"
+		},
+	"696": {
+		"Target": "./HTML/Algorithms/algo_unfig081.html",
+		"title": "Neutropenia"
+		},
+	"697": {
+		"Target": "./HTML/Algorithms/algo_unfig082.html",
+		"title": "Nevus, Abnormal"
+		},
+	"698": {
+		"Target": "./HTML/Algorithms/algo_unfig083.html",
+		"title": "Opioid Dependence"
+		},
+	"699": {
+		"Target": "./HTML/Algorithms/algo_unfig084.html",
+		"title": "Pain, Chronic"
+		},
+	"700": {
+		"Target": "./HTML/Algorithms/algo_unfig085.html",
+		"title": "Pain, Chronic, Treatment"
+		},
+	"701": {
+		"Target": "./HTML/Algorithms/algo_unfig086.html",
+		"title": "Palpable Breast Mass (Age &#x003C;30 Years or Pregnant or Lactating)"
+		},
+	"702": {
+		"Target": "./HTML/Algorithms/algo_unfig087.html",
+		"title": "Palpable Breast Mass (Age &#x003C;30 Years)"
+		},
+	"703": {
+		"Target": "./HTML/Algorithms/algo_unfig088.html",
+		"title": "Palpitations"
+		},
+	"704": {
+		"Target": "./HTML/Algorithms/algo_unfig089.html",
+		"title": "Pap, Normal and Abnormal in Nonpregnant Women Ages 25 Years and Older"
+		},
+	"705": {
+		"Target": "./HTML/Algorithms/algo_unfig090.html",
+		"title": "Pap, Normal and Abnormal in Women Ages 21&#x2013;24 Years"
+		},
+	"706": {
+		"Target": "./HTML/Algorithms/algo_unfig091.html",
+		"title": "Parkinson Disease, Treatment"
+		},
+	"707": {
+		"Target": "./HTML/Algorithms/algo_unfig092.html",
+		"title": "Pediatric Exanthems, Diagnostic"
+		},
+	"708": {
+		"Target": "./HTML/Algorithms/algo_unfig093.html",
+		"title": "Pelvic Pain"
+		},
+	"709": {
+		"Target": "./HTML/Algorithms/algo_unfig094.html",
+		"title": "Poison Exposure and Treatment"
+		},
+	"710": {
+		"Target": "./HTML/Algorithms/algo_unfig095.html",
+		"title": "Precocious Puberty"
+		},
+	"711": {
+		"Target": "./HTML/Algorithms/algo_unfig096.html",
+		"title": "Preoperative Evaluation of Noncardiac Surgical Patient"
+		},
+	"712": {
+		"Target": "./HTML/Algorithms/algo_unfig097.html",
+		"title": "Proteinuria"
+		},
+	"713": {
+		"Target": "./HTML/Algorithms/algo_unfig098.html",
+		"title": "Pulmonary Embolism, Diagnosis"
+		},
+	"714": {
+		"Target": "./HTML/Algorithms/algo_unfig099.html",
+		"title": "Pulmonary Embolism, Treatment"
+		},
+	"715": {
+		"Target": "./HTML/Algorithms/algo_unfig100.html",
+		"title": "Rash, Focal"
+		},
+	"716": {
+		"Target": "./HTML/Algorithms/algo_unfig101.html",
+		"title": "Rectal Bleeding and Hematochezia"
+		},
+	"717": {
+		"Target": "./HTML/Algorithms/algo_unfig102.html",
+		"title": "Recurrent Pregnancy Loss"
+		},
+	"718": {
+		"Target": "./HTML/Algorithms/algo_unfig103.html",
+		"title": "Red Eye"
+		},
+	"719": {
+		"Target": "./HTML/Algorithms/algo_unfig104.html",
+		"title": "Salicylate Poisoning, Acute, Treatment"
+		},
+	"720": {
+		"Target": "./HTML/Algorithms/algo_unfig105.html",
+		"title": "Seizure, New Onset"
+		},
+	"721": {
+		"Target": "./HTML/Algorithms/algo_unfig106.html",
+		"title": "Shoulder Pain, Diagnosis"
+		},
+	"722": {
+		"Target": "./HTML/Algorithms/algo_unfig107.html",
+		"title": "Shoulder Pain, Treatment"
+		},
+	"723": {
+		"Target": "./HTML/Algorithms/algo_unfig108.html",
+		"title": "Sickle Cell Anemia, Acute, Evaluation and Management"
+		},
+	"724": {
+		"Target": "./HTML/Algorithms/algo_unfig109.html",
+		"title": "Suicide, Evaluating Risk For"
+		},
+	"725": {
+		"Target": "./HTML/Algorithms/algo_unfig110.html",
+		"title": "Syncope"
+		},
+	"726": {
+		"Target": "./HTML/Algorithms/algo_unfig111.html",
+		"title": "Thrombocytopenia"
+		},
+	"727": {
+		"Target": "./HTML/Algorithms/algo_unfig112.html",
+		"title": "Thyroid Nodule"
+		},
+	"728": {
+		"Target": "./HTML/Algorithms/algo_unfig113.html",
+		"title": "Transient Ischemic Attacks and Transient Neurologic Defects"
+		},
+	"729": {
+		"Target": "./HTML/Algorithms/algo_unfig114.html",
+		"title": "Tremor"
+		},
+	"730": {
+		"Target": "./HTML/Algorithms/algo_unfig115.html",
+		"title": "Type 2 Diabetes, Treatment"
+		},
+	"731": {
+		"Target": "./HTML/Algorithms/algo_unfig116.html",
+		"title": "Uremia"
+		},
+	"732": {
+		"Target": "./HTML/Algorithms/algo_unfig117.html",
+		"title": "Vaginal Bleeding During Pregnancy"
+		},
+	"733": {
+		"Target": "./HTML/Algorithms/algo_unfig118.html",
+		"title": "Vaginal Bleeding, Abnormal"
+		},
+	"734": {
+		"Target": "./HTML/Algorithms/algo_unfig119.html",
+		"title": "Vitamin D Deficiency"
+		},
+	"735": {
+		"Target": "./HTML/Algorithms/algo_unfig120.html",
+		"title": "Weight Loss, Unintentiona l"
+		},
+}

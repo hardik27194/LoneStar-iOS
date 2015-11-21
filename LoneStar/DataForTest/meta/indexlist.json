@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "Name": "Table of Contents",
+      "File": "toc.json"
+    },
+    {
+      "Name": "Topics (A-Z)",
+      "File": "topic.json"
+    },    
+    {
+      "Name": "Algorithms (A-Z)",
+      "File": "algo.json"
+    },
+    {
+      "Name": "ICD10 - Codes",
+      "File": "icd10.json"
+    },
+    {
+      "Name": "ICD10 - Descriptions",
+      "File": "icd10d.json"
+    },
+    {
+      "Name": "Drugs - Generic Names",
+      "File": "drug_g.json"
+    },
+    {
+      "Name": "Drugs - Trade Names",
+      "File": "drug_t.json"
+    },
+    {
+      "Name": "Indexed Terms",
+      "File": "index.json"
+    }
+  ]
+}

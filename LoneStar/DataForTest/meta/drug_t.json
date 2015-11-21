@@ -1,0 +1,340 @@
+{
+"items": [
+	{
+	"Name": "albumin",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Peritonitis, Acute",
+		"TargetId": "429",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#albumin",
+
+		},
+	]
+	},
+	{
+	"Name": "BCG",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Epididymitis",
+		"TargetId": "192",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#bcg",
+
+		},
+	]
+	},
+	{
+	"Name": "cefotaxime",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Peritonitis, Acute",
+		"TargetId": "429",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#cefotaxime",
+
+		},
+	]
+	},
+	{
+	"Name": "ceftriaxone",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Peritonitis, Acute",
+		"TargetId": "429",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#ceftriaxone",
+
+		},
+	]
+	},
+	{
+	"Name": "Cholecalciferol",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Fibromyalgia",
+		"TargetId": "207",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#cholecalciferol",
+
+		},
+	]
+	},
+	{
+	"Name": "cyanocobalamin",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Vitamin Deficiency",
+		"TargetId": "604",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#cyanocobalamin",
+
+		},
+	]
+	},
+	{
+	"Name": "diphenhydramine",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Angioedema",
+		"TargetId": "38",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#diphenhydramine",
+
+		},
+		{
+		"Name": "Dermatitis, Contact",
+		"TargetId": "156",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#diphenhydramine",
+
+		},
+		{
+		"Name": "Rhinitis, Allergic",
+		"TargetId": "499",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#diphenhydramine",
+
+		},
+		{
+		"Name": "Urticaria",
+		"TargetId": "587",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#diphenhydramine",
+
+		},
+	]
+	},
+	{
+	"Name": "furosemide",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Peritonitis, Acute",
+		"TargetId": "429",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#furosemide",
+
+		},
+	]
+	},
+	{
+	"Name": "imatinib",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Myeloproliferative Neoplasms",
+		"TargetId": "379",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#imatinib",
+
+		},
+		{
+		"Name": "Polycythemia Vera",
+		"TargetId": "448",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#imatinib",
+
+		},
+		{
+		"Name": "Vitiligo",
+		"TargetId": "605",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#imatinib",
+
+		},
+	]
+	},
+	{
+	"Name": "Megestrol",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Endometrial Cancer and Uterine Sarcoma",
+		"TargetId": "186",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#megestrol",
+
+		},
+	]
+	},
+	{
+	"Name": "Midazolam",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Brain Injury, Traumatic",
+		"TargetId": "77",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#midazolam",
+
+		},
+	]
+	},
+	{
+	"Name": "nicotinamide",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Pemphigoid, Bullous",
+		"TargetId": "421",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#nicotinamide",
+
+		},
+	]
+	},
+	{
+	"Name": "norfloxacin",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Peritonitis, Acute",
+		"TargetId": "429",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#norfloxacin",
+
+		},
+	]
+	},
+	{
+	"Name": "Nortriptyline",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Depression, Treatment Resistant",
+		"TargetId": "153",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#nortriptyline",
+
+		},
+		{
+		"Name": "Nicotine Addiction",
+		"TargetId": "387",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#nortriptyline",
+
+		},
+		{
+		"Name": "Smell and Taste Disorders",
+		"TargetId": "526",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#nortriptyline",
+
+		},
+		{
+		"Name": "Vulvodynia",
+		"TargetId": "609",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#nortriptyline",
+
+		},
+	]
+	},
+	{
+	"Name": "Ofloxacin",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Peritonitis, Acute",
+		"TargetId": "429",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#ofloxacin",
+
+		},
+	]
+	},
+	{
+	"Name": "penicillin",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Meningococcal Disease",
+		"TargetId": "357",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#penicillin",
+
+		},
+		{
+		"Name": "Pancreatitis, Acute",
+		"TargetId": "411",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#penicillin",
+
+		},
+	]
+	},
+	{
+	"Name": "piperacillin/tazobactam",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Peritonitis, Acute",
+		"TargetId": "429",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#piperacillin/tazobactam",
+
+		},
+	]
+	},
+	{
+	"Name": "Selegiline",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Depression, Treatment Resistant",
+		"TargetId": "153",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#selegiline",
+
+		},
+	]
+	},
+	{
+	"Name": "spironolactone",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Peritonitis, Acute",
+		"TargetId": "429",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#spironolactone",
+
+		},
+	]
+	},
+	{
+	"Name": "TMP/SMX",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Peritonitis, Acute",
+		"TargetId": "429",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#tmp/smx",
+
+		},
+	]
+	},
+	{
+	"Name": "vancomycin",
+	"IconName": "ico/Rx.png",
+	"items": [
+		{
+		"Name": "Peritonitis, Acute",
+		"TargetId": "429",
+		"IconName": "ico/disorder.png",
+		"Anchor": "#vancomycin",
+
+		},
+	]
+	},
+]
+}

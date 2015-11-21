@@ -14,6 +14,9 @@
 
 @implementation AppDelegate
 
++ (AppDelegate *)sharedDelegate {
+    return (AppDelegate *) [[UIApplication sharedApplication] delegate];
+}
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
@@ -40,6 +43,34 @@
 
 - (void)applicationWillTerminate:(UIApplication *)application {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
+}
+
+#pragma mark - Utilities for getting the current Controller & View
+- (UIView *) visibleView
+{
+    return  [self topController].view;
+}
+
+- (UIViewController *) topController
+{
+    UIViewController *controller = self.window.rootViewController;
+    
+    UINavigationController *nav = controller.navigationController;
+    if (nav) {
+        return nav.visibleViewController;
+    } else {
+        if ([controller isKindOfClass:[UINavigationController class]]) {
+            nav = (UINavigationController *) controller;
+            return nav.visibleViewController;
+        } else {
+            UIViewController *lastController = controller;
+            // traverse until you reach the end...
+            while ((controller=controller.presentedViewController) != nil) {
+                lastController = controller;
+            }
+            return lastController;
+        }
+    }
 }
 
 @end

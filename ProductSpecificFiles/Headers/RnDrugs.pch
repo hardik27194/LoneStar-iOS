@@ -1,0 +1,27 @@
+//
+//  5MCC-2016.h
+//  LoneStar
+//
+//  Created by sandeep on 11/18/15.
+//  Copyright © 2015 Medpresso. All rights reserved.
+//
+
+#ifndef RNDRUG_h
+#define RNDRUG_h
+
+#define SPECIFIC_PRODUCT
+
+#import "LoneStar-Prefix.pch"
+
+// If the product specific name starts with a number, replace the number with an underscore (as below for 5MCC)
+#import "RnDrugs-Swift.h"
+
+#define PRODUCT_KEY_NAME    @"RnDrugs"    // If it is not Edition Based, then this will be same as the PRODUCT_KEY
+
+#define ShortName           @"RnDrug16"
+#define LongName            @"Nursing Drug Reference, 29th Ed"
+#define IconName            @"RnDrug16.tif"
+#define Editor              @"SKIDMORE"
+#define Image
+
+#endif /* RNDRUG_h */
